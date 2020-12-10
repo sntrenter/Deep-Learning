@@ -19,6 +19,7 @@
 
 ## 2. Introduction to deep learning (Sections 1.1, 1.2, 1.3, and 4.1)
 **Lectures:**
+1. [Difference between AI, ML, and DL]
 1. [Introduction to deep learning]
 1. [The power of a hidden layer in neural networks]
 1. [How does machine learning (or deep learning) work? The intuition]
