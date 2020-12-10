@@ -12,10 +12,9 @@
 1. [Numpy](notebooks/numpy.ipynb)
 1. [Matplotlib & Plotly](notebooks/matplotlib_plotly.ipynb) 
 
-* If you are new to Python, please practice Python at [codewars.org](https://www.codewars.com/)  
-* If you already have some Python and Numpy background, you may practice these:   
-    1. [From Python to Numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/)   
-    2. [100 numpy exercises](https://github.com/rougier/numpy-100/blob/master/100_Numpy_exercises.ipynb) by Nicolas P. Rougier  
+If you are new to Python, please practice Python at [codewars.org](https://www.codewars.com/), otherwise you may practice these:   
+1. [From Python to Numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/)   
+2. [100 numpy exercises](https://github.com/rougier/numpy-100/blob/master/100_Numpy_exercises.ipynb) by Nicolas P. Rougier  
 
 ## 2. Introduction to deep learning (Sections 1.1, 1.2, 1.3, and 4.1)
 **Lectures:**
