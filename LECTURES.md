@@ -16,9 +16,12 @@
     - [optional: lecture on TF2 by Joshwa Gordon @ Google](https://youtu.be/5ECD8J3dvDQ)
 
 1. **Introduction to Keras** (Sections 3.2 and 3.3) 
-    - [slides](https://docs.google.com/presentation/d/1uiI-RN9ThSXe1zpXu30INXqPUoUJaCVGFAwYF5jtlto/edit?usp=sharing)
-    - [AlphaFold2: Example of a power of diversity](https://youtu.be/gg7WjuFs8F4)
-    - [optional: Francois Chollet interview](https://youtu.be/Bo8MY4JpiXE)
+    - Lectures:
+       1. [Introduction to Keras](https://youtu.be/Ym34JC2UDFk)
+       1. [Keras sequential vs functional API](https://youtu.be/EvGS3VAsG4Y)
+       1. [Diversity of thought is holding back AI & deep learning research](https://youtu.be/pXMFMs1ryy4)
+       1. [AlphaFold2: Example of a power of diversity](https://youtu.be/gg7WjuFs8F4)
+       1. optional: [Francois Chollet interview](https://youtu.be/Bo8MY4JpiXE)
 
 1. Training must stop
     - Lecture: ToDo: [Training must stop]()
