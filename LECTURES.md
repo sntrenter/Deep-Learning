@@ -45,7 +45,7 @@
 **Optional:** [Francois Chollet interview](https://youtu.be/Bo8MY4JpiXE)
 
 ## 5. Training must stop!
-**Lecture:** ToDo: [Splitting data into development set + (training & validation) and test set + Callbacks]()
+**Lecture:** [Splitting data into development set + (training & validation) and test set + Callbacks](https://youtu.be/XajIX1X1cWQ)
 
 ## 6. Feed-forward neural networks
 **Lecture:** [Binary classification using feed-forward neural networks](https://youtu.be/cJ3oqHqRBF0)    
