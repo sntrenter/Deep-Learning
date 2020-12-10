@@ -50,6 +50,7 @@
 **Lectures:** 
 1. [Image is all numbers](https://youtu.be/mjh5NIn1yHk) (watch the first five minutes only)
 1. [Data generators and image augmentation](https://youtu.be/dSs3kjqvv_Q) 
+1. ToDo: Image preprocessing
 
 **Notebook:** [Image preprocessing](./notebooks/Image_preprocessing.ipynb)
 
