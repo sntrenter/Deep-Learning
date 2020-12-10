@@ -1,16 +1,16 @@
 # Course topics
 
 ## 1. Introduction to Python and Numpy
-
+**Lectures:**
 1. [Colab](https://www.youtube.com/watch?v=PVsS9WtwVB8)
 2. [Python3](https://youtube.com/watch?v=V42qfAPybp8)
 3. [Numpy](https://www.youtube.com/watch?v=Omz8P8n-5gY)
 4. [Matplotlib & Plotly](https://youtu.be/aIzkkjRzVdA) 
 
-* Notebooks 
-  - [Python3](notebooks/python.ipynb)
-  - [Numpy](notebooks/numpy.ipynb)
-  - [Matplotlib & Plotly](notebooks/matplotlib_plotly.ipynb) 
+**Notebooks:** 
+1. [Python3](notebooks/python.ipynb)
+1. [Numpy](notebooks/numpy.ipynb)
+1. [Matplotlib & Plotly](notebooks/matplotlib_plotly.ipynb) 
 
 * If you are new to Python, please practice Python at [codewars.org](https://www.codewars.com/)  
 * If you already have some Python and Numpy background, you may practice these:   
@@ -18,13 +18,18 @@
     2. [100 numpy exercises](https://github.com/rougier/numpy-100/blob/master/100_Numpy_exercises.ipynb) by Nicolas P. Rougier  
 
 ## 2. Introduction to deep learning (Sections 1.1, 1.2, 1.3, and 4.1)
+**Lectures:**
 - [slides](https://docs.google.com/presentation/d/12xzql-fPXfoecYB0UWL8KCvkTP-OO_UH3R9-c_yPxgg/edit?usp=sharing)
 
 ## 3. Data representations & tensor operations (Sections 2.2, 2.3, and 2.4) 
+**Lectures:**
 - [slides](https://docs.google.com/presentation/d/1jFkusgXRn05_slfSVBRkVxyNa3n7U1rQJa5vS8QwSko/edit?usp=sharing)
-- [optional: lecture on TF2 by Joshwa Gordon @ Google](https://youtu.be/5ECD8J3dvDQ)
+
+**Optional:**
+* [Lecture on TF2 by Joshwa Gordon @ Google](https://youtu.be/5ECD8J3dvDQ)
 
 ## 4. Introduction to Keras (Sections 3.2 and 3.3) 
+**Lectures:**
 1. [Introduction to Keras](https://youtu.be/Ym34JC2UDFk)
 1. [Keras sequential vs functional API](https://youtu.be/EvGS3VAsG4Y)
 1. [Diversity of thought is holding back AI & deep learning research](https://youtu.be/pXMFMs1ryy4)
@@ -32,12 +37,11 @@
 1. optional: [Francois Chollet interview](https://youtu.be/Bo8MY4JpiXE)
 
 ## 5. Training must stop
-  - Lecture: ToDo: [Training must stop]()
+**Lecture:** ToDo: [Training must stop]()
 
 ## 6. Feed-forward neural networks
-1. [Binary classification using feed-forward neural networks](https://youtu.be/cJ3oqHqRBF0)
-
-- Notebook: [Binary classification using feed-forward neural networks](./notebooks/wine_quality.ipynb)
+**Lecture:** [Binary classification using feed-forward neural networks](https://youtu.be/cJ3oqHqRBF0)
+**Notebook:** [Binary classification using feed-forward neural networks](./notebooks/wine_quality.ipynb)
 
 ## 7. Preparing images for deep learning (Sections 3.6.2, 5.2.4, and 5.2.5)
 1. [Image is all numbers](https://youtu.be/mjh5NIn1yHk) (watch the first five minutes only)
