@@ -62,6 +62,9 @@ If you are new to Python, please practice Python at [codewars.org](https://www.c
 
 ## 8. The convolution operation [The Most Important Topic] (Section 5.1.1) 
 
+1. []
+1. [Our eyes have blind spots](https://youtu.be/QXzgokis33I) / [article](https://lasikofnv.com/try-these-3-fun-tests-to-find-your-visual-blind-spot/)
+
 **Reading:** [Intuitively Understanding Convolutions for Deep Learning](https://towardsdatascience.com/intuitively-understanding-convolutions-for-deep-learning-1f6f42faee1)
 
 - [slides](https://docs.google.com/presentation/d/1uesCp63vUgzrgROJ7c3VfA5VyCR17W6czayhnWHj9AI/edit?usp=sharing) / [notebook](./notebooks/Detect_rectangles.ipynb)
