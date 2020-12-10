@@ -28,8 +28,7 @@
 1. [Tensors reshape automatically](https://youtu.be/92gOeXFq2FA)
 1. [Examples of 3D, 4D, and 5D tensors](https://youtu.be/8gOg4VNRUaY)
 
-**Optional:**
-* [Lecture on TF2 by Joshwa Gordon @ Google](https://youtu.be/5ECD8J3dvDQ)
+**Optional:** [Lecture on TF2 by Joshwa Gordon @ Google](https://youtu.be/5ECD8J3dvDQ)
 
 ## 4. Introduction to Keras (Sections 3.2 and 3.3) 
 **Lectures:**
@@ -39,8 +38,7 @@
 1. [Diversity of thought is holding back AI & deep learning research](https://youtu.be/pXMFMs1ryy4)
 1. [AlphaFold2: Example of the power of diversity](https://youtu.be/gg7WjuFs8F4)
 
-**Optional:**
-[Francois Chollet interview](https://youtu.be/Bo8MY4JpiXE)
+**Optional:** [Francois Chollet interview](https://youtu.be/Bo8MY4JpiXE)
 
 ## 5. Training must stop
 **Lecture:** ToDo: [Training must stop]()
