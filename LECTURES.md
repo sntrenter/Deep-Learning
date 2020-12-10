@@ -29,7 +29,7 @@
 1. [What are tensors? Matrix vs Tensor](https://youtu.be/7FeO4lqcNfA)
 1. [Tensors reshape automatically](https://youtu.be/92gOeXFq2FA)
 1. [Examples of 3D, 4D, and 5D tensors](https://youtu.be/8gOg4VNRUaY)
-1. ToDo: [The gears of neural networks: Tensor operations]()
+1. [The gears of neural networks: Tensor operations](https://youtu.be/rv9w4MfnWgQ)
 1. [Geometric interpretation of deep learning](https://youtu.be/h30cyYjXFIU)
 
 **Optional:** [Lecture on TF2 by Joshwa Gordon @ Google](https://youtu.be/5ECD8J3dvDQ)
