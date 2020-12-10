@@ -20,6 +20,9 @@
 ## 2. Introduction to deep learning (Sections 1.1, 1.2, 1.3, and 4.1)
 **Lectures:**
 1. [Introduction to deep learning]
+1. [The power of a hidden layer in neural networks]
+1. [How does machine learning (or deep learning) work? The intuition]
+1. [The four branches of machine learning]
 
 ## 3. Data representations & tensor operations (Sections 2.2, 2.3, and 2.4) 
 **Lectures:**
