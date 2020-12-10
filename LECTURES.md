@@ -56,6 +56,9 @@
 **Notebook:** [Image preprocessing](./notebooks/Image_preprocessing.ipynb)
 
 ## 8. The convolution operation [The Most Important Topic] (Section 5.1.1) 
+
+**Reading:** [Intuitively Understanding Convolutions for Deep Learning](https://towardsdatascience.com/intuitively-understanding-convolutions-for-deep-learning-1f6f42faee1)
+
 - [slides](https://docs.google.com/presentation/d/1uesCp63vUgzrgROJ7c3VfA5VyCR17W6czayhnWHj9AI/edit?usp=sharing) / [notebook](./notebooks/Detect_rectangles.ipynb)
 
 1. Activations & loss functions (Sections 4.5.5, and Table 4.1) - [slides](https://docs.google.com/presentation/d/17Gx0Iaov1MuNRXWHAeIUQvz0wpdKWTaIAVQVyRrt-cs/edit?usp=sharing)
