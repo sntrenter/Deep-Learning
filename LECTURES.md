@@ -34,22 +34,26 @@
 1. [Keras sequential vs functional API](https://youtu.be/EvGS3VAsG4Y)
 1. [Diversity of thought is holding back AI & deep learning research](https://youtu.be/pXMFMs1ryy4)
 1. [AlphaFold2: Example of a power of diversity](https://youtu.be/gg7WjuFs8F4)
-1. optional: [Francois Chollet interview](https://youtu.be/Bo8MY4JpiXE)
+
+**Optional:**
+[Francois Chollet interview](https://youtu.be/Bo8MY4JpiXE)
 
 ## 5. Training must stop
 **Lecture:** ToDo: [Training must stop]()
 
 ## 6. Feed-forward neural networks
-**Lecture:** [Binary classification using feed-forward neural networks](https://youtu.be/cJ3oqHqRBF0)
+**Lecture:** [Binary classification using feed-forward neural networks](https://youtu.be/cJ3oqHqRBF0)    
 **Notebook:** [Binary classification using feed-forward neural networks](./notebooks/wine_quality.ipynb)
 
 ## 7. Preparing images for deep learning (Sections 3.6.2, 5.2.4, and 5.2.5)
+**Lectures:** 
 1. [Image is all numbers](https://youtu.be/mjh5NIn1yHk) (watch the first five minutes only)
-1. [Data generators and image augmentation](https://youtu.be/dSs3kjqvv_Q)
+1. [Data generators and image augmentation](https://youtu.be/dSs3kjqvv_Q) 
 
-- Notebook: [Image preprocessing](./notebooks/Image_preprocessing.ipynb)
+**Notebook:** [Image preprocessing](./notebooks/Image_preprocessing.ipynb)
 
-1. The convolution operation (Section 5.1.1) - [slides](https://docs.google.com/presentation/d/1uesCp63vUgzrgROJ7c3VfA5VyCR17W6czayhnWHj9AI/edit?usp=sharing) / [notebook](./notebooks/Detect_rectangles.ipynb)
+## 8. The convolution operation (Section 5.1.1) 
+- [slides](https://docs.google.com/presentation/d/1uesCp63vUgzrgROJ7c3VfA5VyCR17W6czayhnWHj9AI/edit?usp=sharing) / [notebook](./notebooks/Detect_rectangles.ipynb)
 
 1. Activations & loss functions (Sections 4.5.5, and Table 4.1) - [slides](https://docs.google.com/presentation/d/17Gx0Iaov1MuNRXWHAeIUQvz0wpdKWTaIAVQVyRrt-cs/edit?usp=sharing)
  
