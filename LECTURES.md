@@ -1,24 +1,24 @@
 # Course topics
 
-1. **Introduction to Python and Numpy**  
+## 1. Introduction to Python and Numpy
 
-    1. [Colab](https://www.youtube.com/watch?v=PVsS9WtwVB8)
-    2. [Python3](https://youtube.com/watch?v=V42qfAPybp8)
-    3. [Numpy](https://www.youtube.com/watch?v=Omz8P8n-5gY)
-    4. [Matplotlib & Plotly](https://youtu.be/aIzkkjRzVdA) 
-    
-    * Notebooks 
-      - [Python3](notebooks/python.ipynb)
-      - [Numpy](notebooks/numpy.ipynb)
-      - [Matplotlib & Plotly](notebooks/matplotlib_plotly.ipynb) 
+1. [Colab](https://www.youtube.com/watch?v=PVsS9WtwVB8)
+2. [Python3](https://youtube.com/watch?v=V42qfAPybp8)
+3. [Numpy](https://www.youtube.com/watch?v=Omz8P8n-5gY)
+4. [Matplotlib & Plotly](https://youtu.be/aIzkkjRzVdA) 
 
-    * If you are new to Python, please practice Python at [codewars.org](https://www.codewars.com/)  
-    * If you already have some Python and Numpy background, you may practice these:   
-        1. [From Python to Numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/)   
-        2. [100 numpy exercises](https://github.com/rougier/numpy-100/blob/master/100_Numpy_exercises.ipynb) by Nicolas P. Rougier  
+* Notebooks 
+  - [Python3](notebooks/python.ipynb)
+  - [Numpy](notebooks/numpy.ipynb)
+  - [Matplotlib & Plotly](notebooks/matplotlib_plotly.ipynb) 
 
-1. **Introduction to deep learning** (Sections 1.1, 1.2, 1.3, and 4.1)
-    - [slides](https://docs.google.com/presentation/d/12xzql-fPXfoecYB0UWL8KCvkTP-OO_UH3R9-c_yPxgg/edit?usp=sharing)
+* If you are new to Python, please practice Python at [codewars.org](https://www.codewars.com/)  
+* If you already have some Python and Numpy background, you may practice these:   
+    1. [From Python to Numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/)   
+    2. [100 numpy exercises](https://github.com/rougier/numpy-100/blob/master/100_Numpy_exercises.ipynb) by Nicolas P. Rougier  
+
+## 2. Introduction to deep learning (Sections 1.1, 1.2, 1.3, and 4.1)
+- [slides](https://docs.google.com/presentation/d/12xzql-fPXfoecYB0UWL8KCvkTP-OO_UH3R9-c_yPxgg/edit?usp=sharing)
 
 1. **Data representations & tensor operations** (Sections 2.2, 2.3, and 2.4) 
     - [slides](https://docs.google.com/presentation/d/1jFkusgXRn05_slfSVBRkVxyNa3n7U1rQJa5vS8QwSko/edit?usp=sharing)
