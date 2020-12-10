@@ -24,6 +24,9 @@
 ## 3. Data representations & tensor operations (Sections 2.2, 2.3, and 2.4) 
 **Lectures:**
 1. [Geometric interpretation of deep learning](https://youtu.be/h30cyYjXFIU)
+1. [What are tensors? Matrix vs Tensor](https://youtu.be/7FeO4lqcNfA)
+1. [Tensors reshape automatically](https://youtu.be/92gOeXFq2FA)
+1. [Examples of 3D, 4D, and 5D tensors](https://youtu.be/8gOg4VNRUaY)
 
 **Optional:**
 * [Lecture on TF2 by Joshwa Gordon @ Google](https://youtu.be/5ECD8J3dvDQ)
