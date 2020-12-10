@@ -2,7 +2,7 @@
 
 ## 1. Introduction to Python and Numpy
 **Lectures:**
-1. [Colab](https://www.youtube.com/watch?v=PVsS9WtwVB8)
+1. [How to use Google Colab for Python programming?](https://www.youtube.com/watch?v=PVsS9WtwVB8)
 2. [Python3](https://youtube.com/watch?v=V42qfAPybp8)
 3. [Numpy](https://www.youtube.com/watch?v=Omz8P8n-5gY)
 4. [Matplotlib & Plotly](https://youtu.be/aIzkkjRzVdA) 
