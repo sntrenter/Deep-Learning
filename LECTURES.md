@@ -20,29 +20,30 @@
 ## 2. Introduction to deep learning (Sections 1.1, 1.2, 1.3, and 4.1)
 - [slides](https://docs.google.com/presentation/d/12xzql-fPXfoecYB0UWL8KCvkTP-OO_UH3R9-c_yPxgg/edit?usp=sharing)
 
-1. **Data representations & tensor operations** (Sections 2.2, 2.3, and 2.4) 
-    - [slides](https://docs.google.com/presentation/d/1jFkusgXRn05_slfSVBRkVxyNa3n7U1rQJa5vS8QwSko/edit?usp=sharing)
-    - [optional: lecture on TF2 by Joshwa Gordon @ Google](https://youtu.be/5ECD8J3dvDQ)
+## 3. Data representations & tensor operations (Sections 2.2, 2.3, and 2.4) 
+- [slides](https://docs.google.com/presentation/d/1jFkusgXRn05_slfSVBRkVxyNa3n7U1rQJa5vS8QwSko/edit?usp=sharing)
+- [optional: lecture on TF2 by Joshwa Gordon @ Google](https://youtu.be/5ECD8J3dvDQ)
 
-1. **Introduction to Keras** (Sections 3.2 and 3.3) 
-    1. [Introduction to Keras](https://youtu.be/Ym34JC2UDFk)
-    1. [Keras sequential vs functional API](https://youtu.be/EvGS3VAsG4Y)
-    1. [Diversity of thought is holding back AI & deep learning research](https://youtu.be/pXMFMs1ryy4)
-    1. [AlphaFold2: Example of a power of diversity](https://youtu.be/gg7WjuFs8F4)
-    1. optional: [Francois Chollet interview](https://youtu.be/Bo8MY4JpiXE)
+## 4. Introduction to Keras (Sections 3.2 and 3.3) 
+1. [Introduction to Keras](https://youtu.be/Ym34JC2UDFk)
+1. [Keras sequential vs functional API](https://youtu.be/EvGS3VAsG4Y)
+1. [Diversity of thought is holding back AI & deep learning research](https://youtu.be/pXMFMs1ryy4)
+1. [AlphaFold2: Example of a power of diversity](https://youtu.be/gg7WjuFs8F4)
+1. optional: [Francois Chollet interview](https://youtu.be/Bo8MY4JpiXE)
 
-1. Training must stop
-    - Lecture: ToDo: [Training must stop]()
+## 5. Training must stop
+  - Lecture: ToDo: [Training must stop]()
 
-1. Feed-forward neural networks
-    - Notebook: [Binary classification using feed-forward neural networks](./notebooks/wine_quality.ipynb)
-    - Lecture: [Binary classification using feed-forward neural networks](https://youtu.be/cJ3oqHqRBF0)
+## 6. Feed-forward neural networks
+1. [Binary classification using feed-forward neural networks](https://youtu.be/cJ3oqHqRBF0)
 
-1. Preparing images for deep learning (Sections 3.6.2, 5.2.4, and 5.2.5)
-    - Notebook: [Image preprocessing](./notebooks/Image_preprocessing.ipynb)
-    - Lectures: 
-       - [Image is all numbers](https://youtu.be/mjh5NIn1yHk) (watch the first five minutes only)
-       - [Data generators and image augmentation](https://youtu.be/dSs3kjqvv_Q)
+- Notebook: [Binary classification using feed-forward neural networks](./notebooks/wine_quality.ipynb)
+
+## 7. Preparing images for deep learning (Sections 3.6.2, 5.2.4, and 5.2.5)
+1. [Image is all numbers](https://youtu.be/mjh5NIn1yHk) (watch the first five minutes only)
+1. [Data generators and image augmentation](https://youtu.be/dSs3kjqvv_Q)
+
+- Notebook: [Image preprocessing](./notebooks/Image_preprocessing.ipynb)
 
 1. The convolution operation (Section 5.1.1) - [slides](https://docs.google.com/presentation/d/1uesCp63vUgzrgROJ7c3VfA5VyCR17W6czayhnWHj9AI/edit?usp=sharing) / [notebook](./notebooks/Detect_rectangles.ipynb)
 
