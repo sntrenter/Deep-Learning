@@ -1,8 +1,17 @@
 # Course topics
 
 1. **Introduction to Python and Numpy**  
-    * Viedo lectures - [Colab](https://www.youtube.com/watch?v=PVsS9WtwVB8), [Python3](https://youtube.com/watch?v=V42qfAPybp8), [Numpy](https://www.youtube.com/watch?v=Omz8P8n-5gY), [Matplotlib & Plotly](https://youtu.be/aIzkkjRzVdA)  
-    * Notebooks - [Python3](notebooks/python.ipynb), [Numpy](notebooks/numpy.ipynb), [Matplotlib & Plotly](notebooks/matplotlib_plotly.ipynb)  
+
+    1. [Colab](https://www.youtube.com/watch?v=PVsS9WtwVB8)
+    2. [Python3](https://youtube.com/watch?v=V42qfAPybp8)
+    3. [Numpy](https://www.youtube.com/watch?v=Omz8P8n-5gY)
+    4. [Matplotlib & Plotly](https://youtu.be/aIzkkjRzVdA) 
+    
+    * Notebooks 
+      - [Python3](notebooks/python.ipynb)
+      - [Numpy](notebooks/numpy.ipynb)
+      - [Matplotlib & Plotly](notebooks/matplotlib_plotly.ipynb) 
+
     * If you are new to Python, please practice Python at [codewars.org](https://www.codewars.com/)  
     * If you already have some Python and Numpy background, you may practice these:   
         1. [From Python to Numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/)   
@@ -16,12 +25,11 @@
     - [optional: lecture on TF2 by Joshwa Gordon @ Google](https://youtu.be/5ECD8J3dvDQ)
 
 1. **Introduction to Keras** (Sections 3.2 and 3.3) 
-    - Lectures:
-       1. [Introduction to Keras](https://youtu.be/Ym34JC2UDFk)
-       1. [Keras sequential vs functional API](https://youtu.be/EvGS3VAsG4Y)
-       1. [Diversity of thought is holding back AI & deep learning research](https://youtu.be/pXMFMs1ryy4)
-       1. [AlphaFold2: Example of a power of diversity](https://youtu.be/gg7WjuFs8F4)
-       1. optional: [Francois Chollet interview](https://youtu.be/Bo8MY4JpiXE)
+    1. [Introduction to Keras](https://youtu.be/Ym34JC2UDFk)
+    1. [Keras sequential vs functional API](https://youtu.be/EvGS3VAsG4Y)
+    1. [Diversity of thought is holding back AI & deep learning research](https://youtu.be/pXMFMs1ryy4)
+    1. [AlphaFold2: Example of a power of diversity](https://youtu.be/gg7WjuFs8F4)
+    1. optional: [Francois Chollet interview](https://youtu.be/Bo8MY4JpiXE)
 
 1. Training must stop
     - Lecture: ToDo: [Training must stop]()
