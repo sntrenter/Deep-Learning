@@ -23,6 +23,7 @@
 1. [The power of a hidden layer in neural networks]
 1. [How does machine learning (or deep learning) work? The intuition]
 1. [The four branches of machine learning]
+1. [Learning 'bleeding-edge' deep learning]
 
 ## 3. Data representations & tensor operations (Sections 2.2, 2.3, and 2.4) 
 **Lectures:**
