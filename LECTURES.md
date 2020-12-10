@@ -23,7 +23,7 @@
 
 ## 3. Data representations & tensor operations (Sections 2.2, 2.3, and 2.4) 
 **Lectures:**
-- [slides](https://docs.google.com/presentation/d/1jFkusgXRn05_slfSVBRkVxyNa3n7U1rQJa5vS8QwSko/edit?usp=sharing)
+1. [Geometric interpretation of deep learning](https://youtu.be/h30cyYjXFIU)
 
 **Optional:**
 * [Lecture on TF2 by Joshwa Gordon @ Google](https://youtu.be/5ECD8J3dvDQ)
