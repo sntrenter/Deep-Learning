@@ -31,9 +31,10 @@
 ## 4. Introduction to Keras (Sections 3.2 and 3.3) 
 **Lectures:**
 1. [Introduction to Keras](https://youtu.be/Ym34JC2UDFk)
+1. [Keras is also an API in Tensorflow2](https://youtu.be/yNsQ6rqEcv4)
 1. [Keras sequential vs functional API](https://youtu.be/EvGS3VAsG4Y)
 1. [Diversity of thought is holding back AI & deep learning research](https://youtu.be/pXMFMs1ryy4)
-1. [AlphaFold2: Example of a power of diversity](https://youtu.be/gg7WjuFs8F4)
+1. [AlphaFold2: Example of the power of diversity](https://youtu.be/gg7WjuFs8F4)
 
 **Optional:**
 [Francois Chollet interview](https://youtu.be/Bo8MY4JpiXE)
