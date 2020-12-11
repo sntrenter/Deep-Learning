@@ -46,7 +46,7 @@ If you are new to Python, please practice Python at [codewars.org](https://www.c
 **Optional:** [Francois Chollet interview](https://youtu.be/Bo8MY4JpiXE)
 
 ## 5. Training must stop!
-**Lecture:** [Splitting data into development set + (training & validation) and test set + Callbacks](https://youtu.be/XajIX1X1cWQ)
+**Lecture:** [Splitting data into development set + (training & validation) and test set + Callbacks](https://youtu.be/OeZ6i-8xXwQ)
 
 ## 6. Feed-forward neural networks
 **Lecture:** [Binary classification using feed-forward neural networks](https://youtu.be/cJ3oqHqRBF0)    
