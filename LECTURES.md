@@ -18,12 +18,12 @@ If you are new to Python, please practice Python at [codewars.org](https://www.c
 
 ## 2. Introduction to deep learning (Sections 1.1, 1.2, 1.3, and 4.1)
 **Lectures:**
-1. [Difference between AI, ML, and DL]
-1. [Introduction to deep learning]
-1. [The power of a hidden layer in neural networks]
-1. [How does machine learning (or deep learning) work? The intuition]
-1. [The four branches of machine learning]
-1. [Learning 'bleeding-edge' deep learning]
+1. [Difference between AI, ML, and DL](https://youtu.be/kd62-4_jNoA)
+1. [Introduction to deep learning](https://youtu.be/DGXuhXMgOO8)
+1. [The power of a hidden layer in neural networks](https://youtu.be/V9x7SY_4y8c)
+1. [How does machine learning (or deep learning) work? The intuition](https://youtu.be/Bp7zjKWRhAw)
+1. [The four branches of machine learning](https://youtu.be/FlhcbzT2RUU)
+1. [Learning 'bleeding-edge' deep learning](https://youtu.be/X8sCDMrPhAo)
 
 ## 3. Data representations & tensor operations (Sections 2.2, 2.3, and 2.4) 
 **Lectures:**
