@@ -65,11 +65,16 @@ If you are new to Python, please practice Python at [codewars.org](https://www.c
 1. []
 1. [Our eyes have blind spots](https://youtu.be/QXzgokis33I) / [article](https://lasikofnv.com/try-these-3-fun-tests-to-find-your-visual-blind-spot/)
 
+
+1. [What can one convolutional neuron do? Detect a square.]
+
+**Notebook**: [What can one convolutional neuron do? Detect a square](./notebooks/Detect_a_square.ipynb)
+
 **Reading:** [Intuitively Understanding Convolutions for Deep Learning](https://towardsdatascience.com/intuitively-understanding-convolutions-for-deep-learning-1f6f42faee1)
 
-- [slides](https://docs.google.com/presentation/d/1uesCp63vUgzrgROJ7c3VfA5VyCR17W6czayhnWHj9AI/edit?usp=sharing) / [notebook](./notebooks/Detect_rectangles.ipynb)
+## 9. Activations & loss functions (Sections 4.5.5, and Table 4.1) 
 
-1. Activations & loss functions (Sections 4.5.5, and Table 4.1) - [slides](https://docs.google.com/presentation/d/17Gx0Iaov1MuNRXWHAeIUQvz0wpdKWTaIAVQVyRrt-cs/edit?usp=sharing)
+- [slides](https://docs.google.com/presentation/d/17Gx0Iaov1MuNRXWHAeIUQvz0wpdKWTaIAVQVyRrt-cs/edit?usp=sharing)
  
 1. Classify MNIST digits using a CNN - [notebook](./notebooks/MNIST_v1.ipynb)
 
