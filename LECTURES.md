@@ -66,7 +66,7 @@ If you are new to Python, please practice Python at [codewars.org](https://www.c
 1. [Our eyes have blind spots](https://youtu.be/QXzgokis33I) / [article](https://lasikofnv.com/try-these-3-fun-tests-to-find-your-visual-blind-spot/)
 
 
-1. [What can one convolutional neuron do? Detect a square.]
+1. [What can one convolutional neuron do? Detect a square.](https://youtu.be/A69TFtiOREU)
 
 **Notebook**: [What can one convolutional neuron do? Detect a square](./notebooks/Detect_a_square.ipynb)
 
