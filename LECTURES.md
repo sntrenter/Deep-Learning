@@ -105,11 +105,13 @@ If you are new to Python, please practice Python at [codewars.org](https://www.c
 
 1. Transfer learning (Sections 5.3, 5.3.1, and 5.3.2) - [slides](https://docs.google.com/presentation/d/1OV2KDijNYVnwYUrpp0otFCGyt-mejSsvtArp3UyrMQM/edit?usp=sharing) / [notebook](./notebooks/Transfer_learning.ipynb)
 
-1. Deep learning practices (Sections 5.4, 7.1.2, 7.1.3, 7.1.4, and 7.1.5) - [slides](https://docs.google.com/presentation/d/15qI0K9Sm4Ab1vp0x6fKyeCmweMZggTh237zfSxwj-B0/edit?usp=sharing)
+## 99. Deep learning practices (Sections 5.4, 7.1.2, 7.1.3, 7.1.4, and 7.1.5) 
+- [slides](https://docs.google.com/presentation/d/15qI0K9Sm4Ab1vp0x6fKyeCmweMZggTh237zfSxwj-B0/edit?usp=sharing)
+1. [What is Explainable AI (XAI)?](https://vimeo.com/278690594)
+
+**Reading:** [Neural Network Follies](https://neil.fraser.name/writing/tank/)
 
 1. Capsule networks - [slides](https://docs.google.com/presentation/d/1stzUpXvI889j1sziwbStpDItTfvBJ2ylrnMAJAxzLlo/edit?usp=sharing)
-
-1. Explainable deep learning - [reading](https://neil.fraser.name/writing/tank/)
 
 ## 100. Limitations of deep learning & conclusions (Section 9.2)
 
