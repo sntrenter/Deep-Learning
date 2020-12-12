@@ -82,11 +82,16 @@ If you are new to Python, please practice Python at [codewars.org](https://www.c
 
 - [slides](https://docs.google.com/presentation/d/17Gx0Iaov1MuNRXWHAeIUQvz0wpdKWTaIAVQVyRrt-cs/edit?usp=sharing)
  
-1. Classify MNIST digits using a CNN - [notebook](./notebooks/MNIST_v1.ipynb)
+## 10. Classify MNIST digits using a CNN - [notebook](./notebooks/MNIST_v1.ipynb)
 
-1. Evaluating models (Sections 4.2, 4.2.1, 4.2.2) - [slides](https://docs.google.com/presentation/d/1g8rzgspsYU90QtSV99hcA2_ojxJMwRdcw7KK55KNyMA/edit?usp=sharing)
+## 11. Evaluating models (Sections 4.2, 4.2.1, 4.2.2)
 
-1. Feature engineering (Section 4.3) - [slides](https://docs.google.com/presentation/d/14k2vUTlJThQ0u8RVc0C68_92K1Df5YW0v85C5w3nFe8/edit?usp=sharing) 
+1. [The Blind Men and the Elephant](https://youtu.be/Vn9BUfUCL4I)
+[slides](https://docs.google.com/presentation/d/1g8rzgspsYU90QtSV99hcA2_ojxJMwRdcw7KK55KNyMA/edit?usp=sharing)
+
+## 12. Feature engineering (Section 4.3)
+
+[slides](https://docs.google.com/presentation/d/14k2vUTlJThQ0u8RVc0C68_92K1Df5YW0v85C5w3nFe8/edit?usp=sharing) 
 
 1. Overfitting, underfitting, & regularization (Sections 4.4, 4.4.1, 4.4.2, and 4.4.3) - [slides](https://docs.google.com/presentation/d/1RyqzBPX5_Cbs_sCsEJLmYWWK7hbScr2jJABV6blFxRU/edit?usp=sharing)
 
