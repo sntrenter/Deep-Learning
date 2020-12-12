@@ -73,7 +73,7 @@
 1. [Border effect, padding, and maxpooling](https://youtu.be/MTmn--tHbHs)
 1. [Separable convolutions and dilated convolutions](https://youtu.be/vCJ4magCPts)
 1. A practical example: [What can one convolutional neuron do? Detect a square.](https://youtu.be/A69TFtiOREU)
-1. [Classify MNIST digits using a CNN]
+1. [Classify MNIST digits using a CNN](https://youtu.be/jd4-zRwYjDY)
 
 **Notebooks**: 
 1. [Detecting a square](./notebooks/Detect_a_square.ipynb)
