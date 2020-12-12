@@ -61,7 +61,7 @@
 **Notebook:** [Image preprocessing](./notebooks/Image_preprocessing.ipynb)
 
 ## 6. The convolution operation (Section 5.1.1) 
-
+**Lectures:** 
 1. [Our eye and human visual system: Biological inspiration for convolutional neural networks](https://youtu.be/nu9Jdvhe1Pk)
 1. [Our eyes have blind spots](https://youtu.be/QXzgokis33I) / [article](https://lasikofnv.com/try-these-3-fun-tests-to-find-your-visual-blind-spot/)
 1. [Feed-forward (dense) vs Convolutional Neural networks](https://youtu.be/aU6lRpMkBkE)
@@ -82,8 +82,10 @@
 **Reading:** [Intuitively Understanding Convolutions for Deep Learning](https://towardsdatascience.com/intuitively-understanding-convolutions-for-deep-learning-1f6f42faee1)
 
 ## 7. Activations & loss functions (Sections 4.5.5, and Table 4.1) 
-
-- [slides](https://docs.google.com/presentation/d/17Gx0Iaov1MuNRXWHAeIUQvz0wpdKWTaIAVQVyRrt-cs/edit?usp=sharing)
+**Lectures:** 
+[How to choose the last layer’s activation and loss in NN?]
+[Activation functions]
+[Loss functions & Optimizers]
 
 ## 8. Evaluating models (Sections 4.2, 4.2.1, 4.2.2)
 
