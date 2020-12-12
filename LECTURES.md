@@ -79,7 +79,7 @@
 1. [Detecting a square](./notebooks/Detect_a_square.ipynb)
 1. [MNIST](./notebooks/MNIST.ipynb)
 
-**Reading:** [Intuitively Understanding Convolutions for Deep Learning](https://towardsdatascience.com/intuitively-understanding-convolutions-for-deep-learning-1f6f42faee1)
+**Reading:** [Intuitively Understanding Convolutions for Deep Learning](https://towardsdatascience.com/intuitively-understanding-convolutions-for-deep-learning-1f6f42faee1) / [alt](https://www.topbots.com/intuitively-understanding-convolutions-deep-learning/)
 
 ## 7. Activations & loss functions (Sections 4.5.5, and Table 4.1) 
 **Lectures:**   
