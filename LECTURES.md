@@ -95,7 +95,7 @@
 
 [slides](https://docs.google.com/presentation/d/14k2vUTlJThQ0u8RVc0C68_92K1Df5YW0v85C5w3nFe8/edit?usp=sharing) 
 
-## 9. Overfitting, underfitting, & regularization (Sections 4.2, 4.2.1, 4.2.2, 4.4, 4.4.1, 4.4.2, and 4.4.3) 
+## 9. Overfitting, underfitting, & regularization (Sections 4.2 and 4.4) 
 1. [The Blind Men and the Elephant](https://youtu.be/Vn9BUfUCL4I)
 1. [Evaluating models]
 
