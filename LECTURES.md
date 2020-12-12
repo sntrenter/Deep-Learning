@@ -64,16 +64,16 @@ If you are new to Python, please practice Python at [codewars.org](https://www.c
 
 ## 8. The convolution operation [The Most Important Topic] (Section 5.1.1) 
 
-1. [Our eye and human visual system: Biological inspiration for convolutional neural networks]
+1. [Our eye and human visual system: Biological inspiration for convolutional neural networks](https://youtu.be/nu9Jdvhe1Pk)
 1. [Our eyes have blind spots](https://youtu.be/QXzgokis33I) / [article](https://lasikofnv.com/try-these-3-fun-tests-to-find-your-visual-blind-spot/)
-1. [Feed-forward (dense) vs Convolutional Neural networks]
+1. [Feed-forward (dense) vs Convolutional Neural networks](https://youtu.be/aU6lRpMkBkE)
 1. [Hulk vs. Ant Man](https://youtu.be/fNGSHrQDuA8)
-1. [The convolution operation]
-1. [A convolutional neuron (filter): An example]
-1. [The two main parameters of a convolutional layer]
-1. [How to calculate the number of parameters in a convolutional neural network? Some examples]
-1. [Border effect, padding, and maxpooling]
-1. [Separable convolutions and dilated convolutions]
+1. [The convolution operation](https://youtu.be/C73AemPLnL8)
+1. [A convolutional neuron (filter): An example](https://youtu.be/oqf79zcafao)
+1. [The two main parameters of a convolutional layer](https://youtu.be/GeBh1yd_H_E)
+1. [How to calculate the number of parameters in a convolutional neural network? Some examples](https://youtu.be/bikmA-VmSbY)
+1. [Border effect, padding, and maxpooling](https://youtu.be/MTmn--tHbHs)
+1. [Separable convolutions and dilated convolutions](https://youtu.be/vCJ4magCPts)
 1. A practical example: [What can one convolutional neuron do? Detect a square.](https://youtu.be/A69TFtiOREU)
 
 **Notebook**: [What can one convolutional neuron do? Detect a square](./notebooks/Detect_a_square.ipynb)
