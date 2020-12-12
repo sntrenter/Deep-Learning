@@ -72,7 +72,7 @@ If you are new to Python, please practice Python at [codewars.org](https://www.c
 1. [How to calculate the number of parameters in a convolutional neural network? Some examples]
 1. [Border effect, padding, and maxpooling]
 1. [Separable convolutions and dilated convolutions]
-1. [What can one convolutional neuron do? Detect a square.](https://youtu.be/A69TFtiOREU)
+1. A practical example: [What can one convolutional neuron do? Detect a square.](https://youtu.be/A69TFtiOREU)
 
 **Notebook**: [What can one convolutional neuron do? Detect a square](./notebooks/Detect_a_square.ipynb)
 
