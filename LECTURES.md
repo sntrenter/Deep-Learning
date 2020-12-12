@@ -76,7 +76,7 @@
 1. [Classify MNIST digits using a CNN]
 
 **Notebooks**: 
-1. [What can one convolutional neuron do? Detect a square](./notebooks/Detect_a_square.ipynb)
+1. [Detecting a square](./notebooks/Detect_a_square.ipynb)
 1. [MNIST](./notebooks/MNIST.ipynb)
 
 **Reading:** [Intuitively Understanding Convolutions for Deep Learning](https://towardsdatascience.com/intuitively-understanding-convolutions-for-deep-learning-1f6f42faee1)
