@@ -108,6 +108,7 @@ If you are new to Python, please practice Python at [codewars.org](https://www.c
 ## 99. Deep learning practices (Sections 5.4, 7.1.2, 7.1.3, 7.1.4, and 7.1.5) 
 - [slides](https://docs.google.com/presentation/d/15qI0K9Sm4Ab1vp0x6fKyeCmweMZggTh237zfSxwj-B0/edit?usp=sharing)
 1. [What is Explainable AI (XAI)?](https://vimeo.com/278690594)
+1. [Techniques for interpreting a deep learning model]
 
 **Reading:** [Neural Network Follies](https://neil.fraser.name/writing/tank/)
 
