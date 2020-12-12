@@ -25,6 +25,8 @@ If you are new to Python, please practice Python at [codewars.org](https://www.c
 1. [The four branches of machine learning](https://youtu.be/FlhcbzT2RUU)
 1. [Learning 'bleeding-edge' deep learning](https://youtu.be/X8sCDMrPhAo)
 
+**Optional:** [Deep Learning In 5 Minutes | What Is Deep Learning?](https://youtu.be/1k37OcjH7BM)
+
 ## 3. Data representations & tensor operations (Sections 2.2, 2.3, and 2.4) 
 **Lectures:**
 1. [What are tensors? Matrix vs Tensor](https://youtu.be/7FeO4lqcNfA)
@@ -109,4 +111,11 @@ If you are new to Python, please practice Python at [codewars.org](https://www.c
 
 1. Explainable deep learning - [reading](https://neil.fraser.name/writing/tank/)
 
-1. Limitations of DL & conclusions (Section 9.2) - [slides](https://docs.google.com/presentation/d/1uSlx4ojY3HXntjijSgA86e3DMyvoYzynjYOZSZ_ZFMg/edit?usp=sharing)
+## 100. Limitations of deep learning & conclusions (Section 9.2)
+
+**Lectures:**
+1. [Goals of deep learning]
+1. [Limitations of deep learning]
+
+**Optional:** [Andrew Ng: Advice on Getting Started in Deep Learning](https://youtu.be/1k37OcjH7BM)
+
