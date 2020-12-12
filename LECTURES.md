@@ -91,10 +91,6 @@
 1. [How to choose a loss function for a regression problem?]
 1. [How to choose an optimizer for a Tensorflow Keras model?]
 
-## 8. Feature engineering (Section 4.3)
-
-[slides](https://docs.google.com/presentation/d/14k2vUTlJThQ0u8RVc0C68_92K1Df5YW0v85C5w3nFe8/edit?usp=sharing) 
-
 ## 9. Model evaluation, overfitting, underfitting, & regularization (Sections 4.2 and 4.4) 
 1. [The Blind Men and the Elephant](https://youtu.be/Vn9BUfUCL4I)
 1. [Evaluating models]
@@ -108,8 +104,9 @@
 ## 11. Classic CNN architectures (Sections 5.1.1, 5.1.2, and 7.1) 
 - [slides](https://docs.google.com/presentation/d/1a5yeHRI_i0INatg9rLVpYuNTNvrxLCLxKH5_RISFwEY/edit?usp=sharing) / [notebooks](./notebooks/)
 
-## 12. Deep learning practices (Sections 5.3, 5.3.1, 5.3.2, 5.4, 7.1.2, 7.1.3, 7.1.4, and 7.1.5) 
+## 12. Deep learning practices (Sections 4.3, 5.3, 5.4, and 7.1) 
 - [slides](https://docs.google.com/presentation/d/15qI0K9Sm4Ab1vp0x6fKyeCmweMZggTh237zfSxwj-B0/edit?usp=sharing)
+1. [Feature engineering] - [slides](https://docs.google.com/presentation/d/14k2vUTlJThQ0u8RVc0C68_92K1Df5YW0v85C5w3nFe8/edit?usp=sharing) 
 1. [Multi-input and Multi-output models]
 1. [Layer weight sharing (The Siamese LSTM)]
 1. GPUs for deep learning - [slides](https://docs.google.com/presentation/d/1Jg-BOZBDfhBht_3Sf49ja8QrWK_QuX7pr1CQkAf2mcI/edit?usp=sharing)
