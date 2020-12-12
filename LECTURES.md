@@ -91,7 +91,7 @@
 1. [How to choose a loss function for a regression problem?]
 1. [How to choose an optimizer for a Tensorflow Keras model?]
 
-## 9. Model evaluation, overfitting, underfitting, & regularization (Sections 4.2 and 4.4) 
+## 8. Model evaluation, overfitting, underfitting, & regularization (Sections 4.2 and 4.4) 
 1. [The Blind Men and the Elephant](https://youtu.be/Vn9BUfUCL4I)
 1. [Evaluating models]
 1. [Overfitting (variance) and underfitting (bias)]
@@ -99,12 +99,12 @@
 
 - [slides](https://docs.google.com/presentation/d/1RyqzBPX5_Cbs_sCsEJLmYWWK7hbScr2jJABV6blFxRU/edit?usp=sharing)
 
-## 10. Workflow of machine learning (Sections 4.5, 4.5.5, 4.5.6, and 4.5.7) - [slides](https://docs.google.com/presentation/d/1jhp6E1B0M0Adf9jfv8OGZu2nv0p9Y1AmMy3KrwTWLFc/edit?usp=sharing) / [cheatsheet](https://docs.google.com/presentation/d/1mT4aHk0yx9dwxrfnr1WBSKYjEheYhf8R_x0NegrUsto/edit?usp=sharing)
+## 9. Workflow of machine learning (Sections 4.5, 4.5.5, 4.5.6, and 4.5.7) - [slides](https://docs.google.com/presentation/d/1jhp6E1B0M0Adf9jfv8OGZu2nv0p9Y1AmMy3KrwTWLFc/edit?usp=sharing) / [cheatsheet](https://docs.google.com/presentation/d/1mT4aHk0yx9dwxrfnr1WBSKYjEheYhf8R_x0NegrUsto/edit?usp=sharing)
 
-## 11. Classic CNN architectures (Sections 5.1.1, 5.1.2, and 7.1) 
+## 10. Classic CNN architectures (Sections 5.1.1, 5.1.2, and 7.1) 
 - [slides](https://docs.google.com/presentation/d/1a5yeHRI_i0INatg9rLVpYuNTNvrxLCLxKH5_RISFwEY/edit?usp=sharing) / [notebooks](./notebooks/)
 
-## 12. Deep learning practices (Sections 4.3, 5.3, 5.4, and 7.1) 
+## 11. Deep learning practices (Sections 4.3, 5.3, 5.4, and 7.1) 
 - [slides](https://docs.google.com/presentation/d/15qI0K9Sm4Ab1vp0x6fKyeCmweMZggTh237zfSxwj-B0/edit?usp=sharing)
 1. [Feature engineering] - [slides](https://docs.google.com/presentation/d/14k2vUTlJThQ0u8RVc0C68_92K1Df5YW0v85C5w3nFe8/edit?usp=sharing) 
 1. [Multi-input and Multi-output models]
@@ -117,7 +117,7 @@
 
 **Reading:** [Neural Network Follies](https://neil.fraser.name/writing/tank/)
 
-## 13. Limitations of deep learning & conclusions (Section 9.2)
+## 12. Limitations of deep learning & conclusions (Section 9.2)
 
 **Lectures:**
 1. [Goals of deep learning]
