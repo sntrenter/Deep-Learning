@@ -101,18 +101,21 @@ If you are new to Python, please practice Python at [codewars.org](https://www.c
 
 1. GPUs for deep learning - [slides](https://docs.google.com/presentation/d/1Jg-BOZBDfhBht_3Sf49ja8QrWK_QuX7pr1CQkAf2mcI/edit?usp=sharing)
 
-1. Classic CNN architectures (Sections 5.1.1, 5.1.2, and 7.1) - [slides](https://docs.google.com/presentation/d/1a5yeHRI_i0INatg9rLVpYuNTNvrxLCLxKH5_RISFwEY/edit?usp=sharing) / [notebooks](./notebooks/)
+## 97. Classic CNN architectures (Sections 5.1.1, 5.1.2, and 7.1) 
+- [slides](https://docs.google.com/presentation/d/1a5yeHRI_i0INatg9rLVpYuNTNvrxLCLxKH5_RISFwEY/edit?usp=sharing) / [notebooks](./notebooks/)
 
-1. Transfer learning (Sections 5.3, 5.3.1, and 5.3.2) - [slides](https://docs.google.com/presentation/d/1OV2KDijNYVnwYUrpp0otFCGyt-mejSsvtArp3UyrMQM/edit?usp=sharing) / [notebook](./notebooks/Transfer_learning.ipynb)
+## 98. Transfer learning (Sections 5.3, 5.3.1, and 5.3.2) 
+
+- [slides](https://docs.google.com/presentation/d/1OV2KDijNYVnwYUrpp0otFCGyt-mejSsvtArp3UyrMQM/edit?usp=sharing) / [notebook](./notebooks/Transfer_learning.ipynb)
 
 ## 99. Deep learning practices (Sections 5.4, 7.1.2, 7.1.3, 7.1.4, and 7.1.5) 
 - [slides](https://docs.google.com/presentation/d/15qI0K9Sm4Ab1vp0x6fKyeCmweMZggTh237zfSxwj-B0/edit?usp=sharing)
+1. [Multi-input and Multi-output models]
+1. [Layer weight sharing (The Siamese LSTM)]
 1. [What is Explainable AI (XAI)?](https://vimeo.com/278690594)
 1. [Techniques for interpreting a deep learning model]
 
 **Reading:** [Neural Network Follies](https://neil.fraser.name/writing/tank/)
-
-1. Capsule networks - [slides](https://docs.google.com/presentation/d/1stzUpXvI889j1sziwbStpDItTfvBJ2ylrnMAJAxzLlo/edit?usp=sharing)
 
 ## 100. Limitations of deep learning & conclusions (Section 9.2)
 
@@ -121,4 +124,6 @@ If you are new to Python, please practice Python at [codewars.org](https://www.c
 1. [Limitations of deep learning]
 
 **Optional:** [Andrew Ng: Advice on Getting Started in Deep Learning](https://youtu.be/1k37OcjH7BM)
+
+1. Capsule networks - [slides](https://docs.google.com/presentation/d/1stzUpXvI889j1sziwbStpDItTfvBJ2ylrnMAJAxzLlo/edit?usp=sharing)
 
