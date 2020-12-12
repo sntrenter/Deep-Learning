@@ -83,9 +83,13 @@
 
 ## 7. Activations & loss functions (Sections 4.5.5, and Table 4.1) 
 **Lectures:**   
-1. [How to choose the last layer’s activation and loss in NN?] 
-1. [Activation functions] 
-1. [Loss functions & Optimizers]  
+
+1. [How to choose the last layer’s activation and loss in NN?]
+1. [Softmax activation & other activations for deep neural networks]
+1. [How to choose a loss function for a regression problem?]
+1. [Categorial cross-entropy loss (softmax loss) for multi-class classification]
+1. [How to choose a loss function for a regression problem?]
+1. [How to choose an optimizer for a Tensorflow Keras model?]
 
 ## 8. Evaluating models (Sections 4.2, 4.2.1, 4.2.2)
 
