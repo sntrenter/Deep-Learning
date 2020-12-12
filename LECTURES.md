@@ -38,7 +38,7 @@
 
 **Optional:** [Lecture on TF2 by Joshwa Gordon @ Google](https://youtu.be/5ECD8J3dvDQ)
 
-## 4. Introduction to Keras (Sections 3.2, 3.3, 4.2, 4.2.1, 4.2.2) 
+## 4. Introduction to Keras (Sections 3.2 and 3.3) 
 **Lectures:**
 1. [Introduction to Keras](https://youtu.be/Ym34JC2UDFk)
 1. [Keras is also an API in Tensorflow2](https://youtu.be/yNsQ6rqEcv4)
@@ -47,8 +47,6 @@
 1. [AlphaFold2: Example of the power of diversity](https://youtu.be/gg7WjuFs8F4)
 1. [Splitting data into development set + (training & validation) and test set + Callbacks](https://youtu.be/OeZ6i-8xXwQ)
 1. [Binary classification using feed-forward neural networks](https://youtu.be/cJ3oqHqRBF0)    
-1. [The Blind Men and the Elephant](https://youtu.be/Vn9BUfUCL4I)
-1. [Evaluating models]
 
 **Notebook:** [Binary classification using feed-forward neural networks](./notebooks/wine_quality.ipynb)
 
@@ -97,7 +95,10 @@
 
 [slides](https://docs.google.com/presentation/d/14k2vUTlJThQ0u8RVc0C68_92K1Df5YW0v85C5w3nFe8/edit?usp=sharing) 
 
-## 9. Overfitting, underfitting, & regularization (Sections 4.4, 4.4.1, 4.4.2, and 4.4.3) 
+## 9. Overfitting, underfitting, & regularization (Sections 4.2, 4.2.1, 4.2.2, 4.4, 4.4.1, 4.4.2, and 4.4.3) 
+1. [The Blind Men and the Elephant](https://youtu.be/Vn9BUfUCL4I)
+1. [Evaluating models]
+
 - [slides](https://docs.google.com/presentation/d/1RyqzBPX5_Cbs_sCsEJLmYWWK7hbScr2jJABV6blFxRU/edit?usp=sharing)
 
 ## 10. Workflow of machine learning (Sections 4.5, 4.5.5, 4.5.6, and 4.5.7) - [slides](https://docs.google.com/presentation/d/1jhp6E1B0M0Adf9jfv8OGZu2nv0p9Y1AmMy3KrwTWLFc/edit?usp=sharing) / [cheatsheet](https://docs.google.com/presentation/d/1mT4aHk0yx9dwxrfnr1WBSKYjEheYhf8R_x0NegrUsto/edit?usp=sharing)
