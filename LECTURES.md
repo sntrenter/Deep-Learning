@@ -95,9 +95,11 @@
 
 [slides](https://docs.google.com/presentation/d/14k2vUTlJThQ0u8RVc0C68_92K1Df5YW0v85C5w3nFe8/edit?usp=sharing) 
 
-## 9. Overfitting, underfitting, & regularization (Sections 4.2 and 4.4) 
+## 9. Model evaluation, overfitting, underfitting, & regularization (Sections 4.2 and 4.4) 
 1. [The Blind Men and the Elephant](https://youtu.be/Vn9BUfUCL4I)
 1. [Evaluating models]
+1. [Overfitting (variance) and underfitting (bias)]
+1. [How to prevent overfitting? Regularization techniques in deep learning]
 
 - [slides](https://docs.google.com/presentation/d/1RyqzBPX5_Cbs_sCsEJLmYWWK7hbScr2jJABV6blFxRU/edit?usp=sharing)
 
