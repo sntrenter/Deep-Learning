@@ -82,10 +82,10 @@
 **Reading:** [Intuitively Understanding Convolutions for Deep Learning](https://towardsdatascience.com/intuitively-understanding-convolutions-for-deep-learning-1f6f42faee1)
 
 ## 7. Activations & loss functions (Sections 4.5.5, and Table 4.1) 
-**Lectures:** 
-[How to choose the last layer’s activation and loss in NN?]
-[Activation functions]
-[Loss functions & Optimizers]
+**Lectures:**   
+1. [How to choose the last layer’s activation and loss in NN?] 
+1. [Activation functions] 
+1. [Loss functions & Optimizers]  
 
 ## 8. Evaluating models (Sections 4.2, 4.2.1, 4.2.2)
 
