@@ -44,17 +44,14 @@ If you are new to Python, please practice Python at [codewars.org](https://www.c
 1. [Keras sequential vs functional API](https://youtu.be/EvGS3VAsG4Y)
 1. [Diversity of thought is holding back AI & deep learning research](https://youtu.be/pXMFMs1ryy4)
 1. [AlphaFold2: Example of the power of diversity](https://youtu.be/gg7WjuFs8F4)
+1. [Splitting data into development set + (training & validation) and test set + Callbacks](https://youtu.be/OeZ6i-8xXwQ)
+1. [Binary classification using feed-forward neural networks](https://youtu.be/cJ3oqHqRBF0)    
+
+**Notebook:** [Binary classification using feed-forward neural networks](./notebooks/wine_quality.ipynb)
 
 **Optional:** [Francois Chollet interview](https://youtu.be/Bo8MY4JpiXE)
 
-## 5. Training must stop!
-**Lecture:** [Splitting data into development set + (training & validation) and test set + Callbacks](https://youtu.be/OeZ6i-8xXwQ)
-
-## 6. Feed-forward neural networks
-**Lecture:** [Binary classification using feed-forward neural networks](https://youtu.be/cJ3oqHqRBF0)    
-**Notebook:** [Binary classification using feed-forward neural networks](./notebooks/wine_quality.ipynb)
-
-## 7. Preparing images for deep learning (Sections 3.6.2, 5.2.4, and 5.2.5)
+## 5. Preparing images for deep learning (Sections 3.6.2, 5.2.4, and 5.2.5)
 **Lectures:** 
 1. [Image is all numbers](https://youtu.be/mjh5NIn1yHk) (watch the first five minutes only)
 1. [Data generators and image augmentation](https://youtu.be/dSs3kjqvv_Q) 
@@ -62,7 +59,7 @@ If you are new to Python, please practice Python at [codewars.org](https://www.c
 
 **Notebook:** [Image preprocessing](./notebooks/Image_preprocessing.ipynb)
 
-## 8. The convolution operation [The Most Important Topic] (Section 5.1.1) 
+## 6. The convolution operation [The Most Important Topic] (Section 5.1.1) 
 
 1. [Our eye and human visual system: Biological inspiration for convolutional neural networks](https://youtu.be/nu9Jdvhe1Pk)
 1. [Our eyes have blind spots](https://youtu.be/QXzgokis33I) / [article](https://lasikofnv.com/try-these-3-fun-tests-to-find-your-visual-blind-spot/)
@@ -75,49 +72,48 @@ If you are new to Python, please practice Python at [codewars.org](https://www.c
 1. [Border effect, padding, and maxpooling](https://youtu.be/MTmn--tHbHs)
 1. [Separable convolutions and dilated convolutions](https://youtu.be/vCJ4magCPts)
 1. A practical example: [What can one convolutional neuron do? Detect a square.](https://youtu.be/A69TFtiOREU)
+1. [Classify MNIST digits using a CNN]
 
-**Notebook**: [What can one convolutional neuron do? Detect a square](./notebooks/Detect_a_square.ipynb)
+**Notebooks**: 
+1. [What can one convolutional neuron do? Detect a square](./notebooks/Detect_a_square.ipynb)
+1. [MNIST](./notebooks/MNIST_v1.ipynb)
 
 **Reading:** [Intuitively Understanding Convolutions for Deep Learning](https://towardsdatascience.com/intuitively-understanding-convolutions-for-deep-learning-1f6f42faee1)
 
-## 9. Activations & loss functions (Sections 4.5.5, and Table 4.1) 
+## 7. Activations & loss functions (Sections 4.5.5, and Table 4.1) 
 
 - [slides](https://docs.google.com/presentation/d/17Gx0Iaov1MuNRXWHAeIUQvz0wpdKWTaIAVQVyRrt-cs/edit?usp=sharing)
- 
-## 10. Classify MNIST digits using a CNN - [notebook](./notebooks/MNIST_v1.ipynb)
 
-## 11. Evaluating models (Sections 4.2, 4.2.1, 4.2.2)
+## 8. Evaluating models (Sections 4.2, 4.2.1, 4.2.2)
 
 1. [The Blind Men and the Elephant](https://youtu.be/Vn9BUfUCL4I)
 [slides](https://docs.google.com/presentation/d/1g8rzgspsYU90QtSV99hcA2_ojxJMwRdcw7KK55KNyMA/edit?usp=sharing)
 
-## 12. Feature engineering (Section 4.3)
+## 9. Feature engineering (Section 4.3)
 
 [slides](https://docs.google.com/presentation/d/14k2vUTlJThQ0u8RVc0C68_92K1Df5YW0v85C5w3nFe8/edit?usp=sharing) 
 
-1. Overfitting, underfitting, & regularization (Sections 4.4, 4.4.1, 4.4.2, and 4.4.3) - [slides](https://docs.google.com/presentation/d/1RyqzBPX5_Cbs_sCsEJLmYWWK7hbScr2jJABV6blFxRU/edit?usp=sharing)
+## 10. Overfitting, underfitting, & regularization (Sections 4.4, 4.4.1, 4.4.2, and 4.4.3) 
+- [slides](https://docs.google.com/presentation/d/1RyqzBPX5_Cbs_sCsEJLmYWWK7hbScr2jJABV6blFxRU/edit?usp=sharing)
 
-1. Workflow of machine learning (Sections 4.5, 4.5.5, 4.5.6, and 4.5.7) - [slides](https://docs.google.com/presentation/d/1jhp6E1B0M0Adf9jfv8OGZu2nv0p9Y1AmMy3KrwTWLFc/edit?usp=sharing) / [cheatsheet](https://docs.google.com/presentation/d/1mT4aHk0yx9dwxrfnr1WBSKYjEheYhf8R_x0NegrUsto/edit?usp=sharing)
+## 11. Workflow of machine learning (Sections 4.5, 4.5.5, 4.5.6, and 4.5.7) - [slides](https://docs.google.com/presentation/d/1jhp6E1B0M0Adf9jfv8OGZu2nv0p9Y1AmMy3KrwTWLFc/edit?usp=sharing) / [cheatsheet](https://docs.google.com/presentation/d/1mT4aHk0yx9dwxrfnr1WBSKYjEheYhf8R_x0NegrUsto/edit?usp=sharing)
 
-1. GPUs for deep learning - [slides](https://docs.google.com/presentation/d/1Jg-BOZBDfhBht_3Sf49ja8QrWK_QuX7pr1CQkAf2mcI/edit?usp=sharing)
-
-## 97. Classic CNN architectures (Sections 5.1.1, 5.1.2, and 7.1) 
+## 12. Classic CNN architectures (Sections 5.1.1, 5.1.2, and 7.1) 
 - [slides](https://docs.google.com/presentation/d/1a5yeHRI_i0INatg9rLVpYuNTNvrxLCLxKH5_RISFwEY/edit?usp=sharing) / [notebooks](./notebooks/)
 
-## 98. Transfer learning (Sections 5.3, 5.3.1, and 5.3.2) 
-
-- [slides](https://docs.google.com/presentation/d/1OV2KDijNYVnwYUrpp0otFCGyt-mejSsvtArp3UyrMQM/edit?usp=sharing) / [notebook](./notebooks/Transfer_learning.ipynb)
-
-## 99. Deep learning practices (Sections 5.4, 7.1.2, 7.1.3, 7.1.4, and 7.1.5) 
+## 13. Deep learning practices (Sections 5.3, 5.3.1, 5.3.2, 5.4, 7.1.2, 7.1.3, 7.1.4, and 7.1.5) 
 - [slides](https://docs.google.com/presentation/d/15qI0K9Sm4Ab1vp0x6fKyeCmweMZggTh237zfSxwj-B0/edit?usp=sharing)
 1. [Multi-input and Multi-output models]
 1. [Layer weight sharing (The Siamese LSTM)]
+1. GPUs for deep learning - [slides](https://docs.google.com/presentation/d/1Jg-BOZBDfhBht_3Sf49ja8QrWK_QuX7pr1CQkAf2mcI/edit?usp=sharing)
+1. Transfer learning
+- [slides](https://docs.google.com/presentation/d/1OV2KDijNYVnwYUrpp0otFCGyt-mejSsvtArp3UyrMQM/edit?usp=sharing) / [notebook](./notebooks/Transfer_learning.ipynb)
 1. [What is Explainable AI (XAI)?](https://vimeo.com/278690594)
 1. [Techniques for interpreting a deep learning model]
 
 **Reading:** [Neural Network Follies](https://neil.fraser.name/writing/tank/)
 
-## 100. Limitations of deep learning & conclusions (Section 9.2)
+## 14. Limitations of deep learning & conclusions (Section 9.2)
 
 **Lectures:**
 1. [Goals of deep learning]
