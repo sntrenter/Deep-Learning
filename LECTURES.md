@@ -60,7 +60,7 @@
 
 **Notebook:** [Image preprocessing](./notebooks/Image_preprocessing.ipynb)
 
-## 6. The convolution operation [The Most Important Topic] (Section 5.1.1) 
+## 6. The convolution operation (Section 5.1.1) 
 
 1. [Our eye and human visual system: Biological inspiration for convolutional neural networks](https://youtu.be/nu9Jdvhe1Pk)
 1. [Our eyes have blind spots](https://youtu.be/QXzgokis33I) / [article](https://lasikofnv.com/try-these-3-fun-tests-to-find-your-visual-blind-spot/)
