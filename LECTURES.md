@@ -97,6 +97,7 @@
 1. [Evaluating models]
 1. [Overfitting (variance) and underfitting (bias)]
 1. [How to prevent overfitting? Regularization techniques in deep learning]
+1. [How to train deeper convolutional neural networks? (Effect of network depth on learning/prediction accuracy)] notebook 
 
 - [slides](https://docs.google.com/presentation/d/1RyqzBPX5_Cbs_sCsEJLmYWWK7hbScr2jJABV6blFxRU/edit?usp=sharing)
 
