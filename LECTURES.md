@@ -102,4 +102,9 @@
 1. [Goals of deep learning](https://youtu.be/HJ1RX0jowhM)
 1. [Limitations of deep learning](https://youtu.be/X5PQEEwCeKg)
 
+**Optional:** Resources for implementing the backpropagation algorithm
+- ["Yes you should understand backprop” by A. Karpathy](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b)
+- [CSE 599G1: Deep Learning System, University of Washington](https://dlsys.cs.washington.edu/pdf/lecture4.pdf) 
+- [Backpropagation, NNets](https://www.youtube.com/watch?v=i94OvYb6noo)
+
 **Optional:** [Andrew Ng: Advice on Getting Started in Deep Learning](https://youtu.be/1k37OcjH7BM)
