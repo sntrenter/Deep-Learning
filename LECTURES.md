@@ -99,10 +99,7 @@
 ## 11. Limitations of deep learning & conclusions (Section 9.2)
 
 **Lectures:**
-1. [Goals of deep learning]
-1. [Limitations of deep learning]
+1. [Goals of deep learning](https://youtu.be/HJ1RX0jowhM)
+1. [Limitations of deep learning](https://youtu.be/X5PQEEwCeKg)
 
 **Optional:** [Andrew Ng: Advice on Getting Started in Deep Learning](https://youtu.be/1k37OcjH7BM)
-
-1. Capsule networks - [slides](https://docs.google.com/presentation/d/1stzUpXvI889j1sziwbStpDItTfvBJ2ylrnMAJAxzLlo/edit?usp=sharing)
-
