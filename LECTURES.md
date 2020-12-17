@@ -60,7 +60,7 @@
 1. A practical example: [What can one convolutional neuron do? Detect a square.](https://youtu.be/A69TFtiOREU) / [notebook](./notebooks/Detect_a_square.ipynb)
 1. [Classify MNIST digits using a CNN](https://youtu.be/jd4-zRwYjDY) / [notebook](./notebooks/MNIST.ipynb)
 
-**Reading:** [Intuitively Understanding Convolutions for Deep Learning](https://towardsdatascience.com/intuitively-understanding-convolutions-for-deep-learning-1f6f42faee1) / [alt](https://www.topbots.com/intuitively-understanding-convolutions-deep-learning/)
+**Reading:** [Intuitively Understanding Convolutions for Deep Learning](https://towardsdatascience.com/intuitively-understanding-convolutions-for-deep-learning-1f6f42faee1) / [alternative article](https://www.topbots.com/intuitively-understanding-convolutions-deep-learning/)
 
 ## 7. Activations & loss functions (Sections 4.5.5, and Table 4.1) 
 1. [How to choose the last layer’s activation and loss in NN?](https://youtu.be/veo6l7YkPhg)
