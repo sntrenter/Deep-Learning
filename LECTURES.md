@@ -73,11 +73,14 @@
 
 ## 8. Model evaluation, overfitting, underfitting, & regularization (Sections 4.2, 4.4, and 4.5) 
 1. [The Blind Men and the Elephant](https://youtu.be/Vn9BUfUCL4I)
-1. [Evaluating models]
+1. [Evaluating machine learning models: Measuring generalization]
 1. [Overfitting (variance) and underfitting (bias)]
 1. [How to prevent overfitting? Regularization techniques in deep learning]
+1. [L1 and L2 regularization]
+1. [Regularization using Dropout]
+1. [Regularization using Batch Normalization]
 1. [How to train deeper convolutional neural networks?](https://youtu.be/G6HA8yCpFAo) / [notebook](./notebooks/How_to_train_a_very_deep_cnn_model.ipynb) 
-1. [Deep learning workflow/Recipe: From data to deep learning model]
+1. [Deep learning workflow/Recipe: From data to deep learning model](https://youtu.be/nPI0vK62B8g)
 1. [How to debug a deep learning development pipeline?](https://youtu.be/cwvqche_eCY)
 
 ## 9. Classic CNN architectures (Sections 5.1.1, 5.1.2, and 7.1) 
