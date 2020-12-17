@@ -76,9 +76,9 @@
 1. [Evaluating models]
 1. [Overfitting (variance) and underfitting (bias)]
 1. [How to prevent overfitting? Regularization techniques in deep learning]
-1. [How to train deeper convolutional neural networks?] / [notebook](./notebooks/How_to_train_a_very_deep_cnn_model.ipynb) 
-1. Workflow
-1. Debug
+1. [How to train deeper convolutional neural networks?](https://youtu.be/G6HA8yCpFAo) / [notebook](./notebooks/How_to_train_a_very_deep_cnn_model.ipynb) 
+1. [Deep learning workflow/Recipe: From data to deep learning model]
+1. [How to debug a deep learning development pipeline?]
 
 ## 9. Classic CNN architectures (Sections 5.1.1, 5.1.2, and 7.1) 
 - [slides](https://docs.google.com/presentation/d/1a5yeHRI_i0INatg9rLVpYuNTNvrxLCLxKH5_RISFwEY/edit?usp=sharing) / [notebooks](./notebooks/)
