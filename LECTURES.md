@@ -77,7 +77,7 @@
 1. [Overfitting (variance) and underfitting (bias)](https://youtu.be/sbYOtFV6aFc)
 1. [How to prevent overfitting? Regularization techniques in deep learning](https://youtu.be/mbhXndDIzlc)
 1. [L1 and L2 regularization](https://youtu.be/n-aOC_Q6WYs)
-1. [Regularization using Dropout]
+1. [Regularization using Dropout](https://youtu.be/BJYvbZhGArw)
 1. [Regularization using Batch Normalization]
 1. [How to train deeper convolutional neural networks?](https://youtu.be/G6HA8yCpFAo) / [notebook](./notebooks/How_to_train_a_very_deep_cnn_model.ipynb) 
 1. [Deep learning workflow/Recipe: From data to deep learning model](https://youtu.be/nPI0vK62B8g)
