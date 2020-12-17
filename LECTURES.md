@@ -98,7 +98,7 @@
 
 **Reading:** [Neural Network Follies](https://neil.fraser.name/writing/tank/)
 
-## 11. Limitations of deep learning & conclusions (Section 9.2)
+## 11. Limitations of deep learning (Section 9.2)
 1. [Goals of deep learning](https://youtu.be/HJ1RX0jowhM)
 1. [Limitations of deep learning](https://youtu.be/X5PQEEwCeKg)
 
