@@ -1,23 +1,28 @@
 <img src="syllabus/umsl.png" align="middle" width="400"/>
 
-## Syllabus of Deep Learning (CMPSCI 4390/5390) - 2020 Spring
+# Syllabus of Deep Learning (CMPSCI 4390/5390)
 
-[UMSL Academic Calendar](https://www.umsl.edu/services/academic/publications/calendar/academic%20calendar%202019-2020.pdf) | [Resources & Support](https://umsl.instructure.com/courses/44471/pages/student-resources-and-supports?module_item_id=454221) | [Technology Assistance](https://umsl.instructure.com/courses/44471/pages/technology-assistance?module_item_id=454223) | [Final Exam Schedule](https://www.umsl.edu/~registration/final-exams.html)
+## 1. Instructor/facilitator
 
-## Class and office hours
-* Instructor: [Badri Adhikari](http://umsl.edu/~adhikarib) | adhikarib @ edu.umsl
-* Class meets: `TuTh 6:55PM to 8:10PM`~~at `Clark Hall 306`~~
-* Office location and hours: by email ~~`312 Express Scripts Hall`, `Mondays 1PM to 4PM`~~
+| Instructor (facilitator) | Contact information |
+|:---|:---|
+| [<img src="./supporting_files/badri.jpg" align="middle" width="100"/>](https://badriadhikari.github.io/) | Instructor (Facilitator): [Badri Adhikari](http://umsl.edu/~adhikarib/) <br> Email: adhikarib@edu.umsl <br> Class meets: Thursdays 5:30PM - 6:45PM (synchronously via Zoom) <br> Office hours: By appointment (right after class) |
 
-## About the course
+**Teaching philosophy:** Computer science and technology is mostly a practical discipline. To learn the fundamentals, an effective strategy is to follow an iterative process of `reading, analyzing, and coding`. However, many students either like to `analyze` or `code` but not both. While some of us enjoy developing the skills for critically assessing the concepts and algorithms, many others enjoy programming and love building things. I think that an effective computer science course should be a balance of (a) theoretical knowledge to understand how computer technology works, and (b) implementation skills to test and execute the theories and algorithms. I design course contents and assignments so that students have an opportunity to improve both: analytical and programming skills. Students with a rich programming experience may find this balance slightly easier but will have a platform to explore further. For many others who do not consider themselves expert programmers, taking such a course will be a rewarding experience.
+
+## 2. Course description
 
 Deep learning is popular because of its high applicability and superior performance in domains where we use machine learning. Deep learning based applications have reached or surpassed human performance not only for industrial problems like object classification, speech recognition, and stock market prediction but also for many problems in the field of biology and medicine. Recently, deep learning is demonstrated to outperform human radiologists in detecting pneumonia from chest X-rays. It is also reliably used in iPhone-X for unlocking the phone through accurate face detection. Self-driving cars drive using the deep learning algorithms. Deep learning will soon replace humans in most domains of human mental labor. This course reviews a typical machine learning recipe, computational foundations for deep learning, and provides an introduction to deep learning of dense neural networks. The course will focus on building, training, and evaluating deep convolutional neural networks for solving various machine learning problems, particularly the ones relating to image data. At the end of the course you will also be able to differentiate what kinds of problems are best solved by deep learning algorithms and what are not, and develop your own deep learning applications. You will also learn major technology trends in deep learning and understand what makes it different from traditional machine learning.
 
-**Catalog Description**  
+**UMSL catalog description**
+> This course reviews a typical machine learning recipe, mathematical foundations for deep learning, and provides an introduction to deep learning. Topics include dense neural networks, convolutional neural networks, and recurrent neural networks. The course will cover building, training, and using deep neural networks for solving various machine learning problems like image classification and protein contact prediction. Credit cannot be granted for both CMP SCI 4390 and CMP SCI 5390. \[3 credit units\].
 
-This course reviews a typical machine learning recipe, mathematical foundations for deep learning, and provides an introduction to deep learning. Topics include dense neural networks, convolutional neural networks, and recurrent neural networks. The course will cover building, training, and using deep neural networks for solving various machine learning problems like image classification and protein contact prediction. Credit cannot be granted for both CMP SCI 4390 and CMP SCI 5390. \[3 credit units\].
+## 3. Prerequisites  
+CMPSCI 3130 (Design and Analysis of Algorithms) or Graduate Standing in CS
 
+## 4. Learning outcomes  
 **Upon completing the course students will be able to:**
+* Use Python, Numpy and Keras to design, train, and evaluate convolutional neural network models
 * Write Numpy and Tensorflow programs for building deep learning applications
 * Learn computational foundations of machine learning and deep learning
 * Learn the major technology trends in deep learning such as convolutional neural networks and residual neural networks
@@ -26,95 +31,88 @@ This course reviews a typical machine learning recipe, mathematical foundations 
 * Design, develop, train, debug, and evaluate deep neural networks
 * Learn how to transfer the knowledge in pre-trained deep learning models to build models for new datasets
 
-## Prerequisites  
-* CMPSCI 3130 (Design and Analysis of Algorithms) or Graduate Standing in CS
+## 5. Textbook  
+"Deep Learning with Python" by François Chollet by [Manning](https://www.manning.com/books/deep-learning-with-python); [pdf](http://faculty.neu.edu.cn/yury/AAI/Textbook/Deep%20Learning%20with%20Python.pdf); [examples](https://github.com/fchollet/deep-learning-with-python-notebooks) at GitHub 
 
-## Course materials  
-* This syllabus has the links to all the course materials.
-
-## Textbook  
-* Primary textbook: "Deep Learning with Python" by François Chollet by [Manning](https://www.manning.com/books/deep-learning-with-python); [pdf](http://faculty.neu.edu.cn/yury/AAI/Textbook/Deep%20Learning%20with%20Python.pdf); [examples](https://github.com/fchollet/deep-learning-with-python-notebooks) at GitHub 
-
-## Course topics
-* See [here](LECTURES.md).
-
-## Course schedule
+## 6. Course topics
 
 
+## 7. Course materials  
+* All course materials are inside the relevant folders in Github
+* Recorded lectures of the chapters are [here](./LECTURES.md)
+ 
+## 8. Week-by-week course schedule (tentative)
 
-## General policies
-* Keep yourself out of plagarism; Read [UMSL's Policy](https://www.umsl.edu/services/academic/policy/academic-dishonesty.html); Our `turnitin` tool automatically checks for plagarism; Here is an [example](syllabus/turn-it-in.png).
-* Lecture recordings, audio or video, are not permitted
-* You are welcome to bring your laptop in class
+1. **08/27**
+   - Summary homework due next week: Chapter 18 
+   - Activity due next week: Activity 01
+   - Meeting discussion topics: Syllabus + Colab + Activity 01
 
-## Programming language
-* Python3 is language for the course; you are expected to use Python3 for all of your classroom activities, homeworks, and project.
-* You are also required to use [Google colab](https://colab.research.google.com) or your own hosted Jupyter Notebook for running your programs.
+1. **09/03**
+   - Summary homework due next week: Chapter 01 
+   - Activity due next week: Activity 02 & 03
+   - Meeting discussion topics: QnA
 
-## ~~Late policy~~  
-* You have a total of 5 late days.
-* Once you use your late days, late submissions will get no points.
+1. **Thanksgiving break**
 
-## Course project
+1. **12/10**
+   - Summary homework due next week: N/A
+   - Activity due next week: N/A
+   - Meeting discussion topics: QnA + Final report
+
+1. **Finals week**
+   - Project final report
+
+## 9. Academic dishonesty
+Any form of academic dishonesty in this class will result in an F for the semester and the case will be referred to the provost's office for possible further disciplinary action, regardless of how trivial it is. Please don't use another student's assignment (or a solution in the internet) to complete your own assignment. Discussing the material is 'OK', but please do your work on your own. You should complete the homework alone, not together, and not in a group. If you have any questions about any of the lessons or the assignments, please contact me, and I will point you in the right direction. Please read [UMSL's policy](https://www.umsl.edu/services/academic/policy/academic-dishonesty.html) and keep yourself out of plagiarism. Also, please remember that our `turnitin` tool also automatically checks for plagiarism.
+
+<p align="center">
+    <img src="supporting_files/academic_dishonesty.gif" align="middle" width="400"/>
+</p>
+
+## 10. Programming language
+Python3 is language for the course; you are expected to use Python3 for all of your classroom activities, homeworks, and project. You are also required to use [Google colab](https://colab.research.google.com) or your own hosted Jupyter Notebook for running your programs.
+
+## 11. Due dates and late policy  
+* Homeworks and project phases have their respective due dates (see Schedule).
+* You can request a maximum two-day extension on any homeworks or project submissions - for up to two submissions. If you email me a few hours before a deadline and I don't reply you immediately, and if you have not used your two-day extensions, you can assume that the extension is granted automatically.
+* Once you use your extension days, late submissions will get no points. But, there can be exceptions.
+
+## 12. Course project
 * See [here](PROJECT.md).
 
-## Homeworks
+## 13. Homeworks
+There will be two types of homeworks: [project homeworks](./PROJECT.md), and [drawing concept maps](./CONCEPT-MAPS.md) as chapter summaries.
 
-There will be two kinds of homeworks:  
-1. Writing chapter summaries, and 
-2. Project milestones (please see the project section)
+## 14. Grade composition  
 
-Instructions for writing chapter summaries:
-1. Submit at least a one page summary (at least 500 words) of the chapter.
-1. All text must be `in your own words` and anything copied must be quoted and cited appropriately.
-1. Use bullets only when appropriate - your summary cannot be all bullets.
-1. Don't copy/paste images or equations from the slides or from the Internet - if you do, please cite the source right below the figure or equation.
-1. You are encouraged but not required submit your homeworks using <a href="https://www.overleaf.com/">Overleaf</a>.
-1. All homeworks will be automatically checked for plagarism using the Canvas plugin Turnitin. If you copy/paste contents from the Internet, you will receive a `zero` for your submission. Serious actions will be taken for any repeated plagarism.
+| Submission | Total Points |
+| :--- | ---: |
+| Chapter concept maps | 30 |
+| Chapter Quizes | 30 |
+| Project | 40 |
 
-## ~~Presentations~~
-* See [here](PRESENTATIONS.md).
+Note: One (1) bonus point will be assigned to everyone who completes the course evaluation survey. Please email me once you submit the survey.
 
-## ~~Tests~~
-* There will be short tests (maximum 30 minutes) almost every week on Thursdays (see the course schedule).
-* On the tests, you may be asked to find the output of a program/code-block but not to write complete programs.
-* If you miss a test (on topic A) and send me an email by the end of next day with a valid reason, your score in the next test (on topic B) will be copied as your score for the test you missed. However, in the test that you appear, you may be asked questions from both topics (A and B) while all others will receive questions only on topic B.
-* Tests will be CLOSED book, CLOSED notes, and CLOSED electronics.
-* Use of any type of electronics is strictly forbidden during tests.
-* It is your responsibility to contact the instructor if you miss a test. If you don't, a grade of zero points will be assgined for the test you miss.
+## 15.Grading scheme  
 
-## ~~Attendance~~
-* Attendance will be recorded frequently
-* More than 5 uninformed absenses may lead to failing the course  (This requirement is waived due to the COVID-19)
-  
-## Grade composition  
-* Before spring break:
-  * 5 Tests → 5 * 3 points
-  * 5 Homeworks → 5 * 2 points
-  * 1 Homework → 3 points (learning to learn online)
-  * 1 Presentation → 1 * 3.34 points
-  * 2 Project phases → 5 points
-  * 1.5 bonus point to everyone in the class if 80%+ complete the course evaluation survey
-* After spring break:
-  * 5 Homeworks → 5 * 5 points
-  * Remaining project phases → 35 points
+| Points      | Grade |
+| ----------- | ----- |
+| 100% to 94% | A     |
+| <94% to 90% | A-    |
+| <90% to 87% | B+    |
+| <87% to 84% | B     |
+| <84% to 80% | B-    |
+| <80% to 77% | C+    |
+| <77% to 74% | C     |
+| <74% to 70% | C-    |
+| <70% to 67% | D+    |
+| <67% to 64% | D     |
+| <64% to 61% | D-    |
+| <61% to 0%  | F     |
 
-#### Project (40 points)
-* 2.5 points → Data preparation
-* 2.5 points → Build an overfitting model
-* 5  points → Split & evaluate on test set
-* 5  points → Effects of augmentation
-* 5  points → Effects of regularization
-* 5  points → Addressing of peer-review comments
-* 5  points → Use pretrained & residual archs
-* 10 points → Report ~~and poster presentation (score from external judges, peers, and instructor)~~
+## 16. Resources  
+Your success in this class is important to me. If you need official accommodations, you have a right to have these met. If there are aspects of this course that prevent you from learning or exclude you, please let me know as soon as possible. Together we’ll develop strategies to meet both your needs and the requirements of the course. I encourage you to visit the following links to determine how you could improve your learning as well. 
 
-## Grading scheme  
-* The university may provide you with an option to switch to S/U grade.  
-
-  <img src="syllabus/grades.png" align="middle" width="450"/>
-
-## Publicly accessible student projects
-* [Categorizing Equus Members with Deep Learning](https://github.com/mykon23/DL-2020Project/blob/master/Categorizing_Equus_Members_with_Deep_Learning.pdf) - by Miguel Corona
-* [Finger Digit Classification](https://github.com/kvong/DeepLearning-FingerDigitClassification) - by Khanh Vong
-
+* [Resources & Support](https://umsl.instructure.com/courses/44471/pages/student-resources-and-supports?module_item_id=454221)
+* [Technology Assistance](https://umsl.instructure.com/courses/44471/pages/technology-assistance?module_item_id=454223)
