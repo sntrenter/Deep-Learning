@@ -34,8 +34,18 @@ CMPSCI 3130 (Design and Analysis of Algorithms) or Graduate Standing in CS
 ## 5. Textbook  
 "Deep Learning with Python" by François Chollet by [Manning](https://www.manning.com/books/deep-learning-with-python); [pdf](http://faculty.neu.edu.cn/yury/AAI/Textbook/Deep%20Learning%20with%20Python.pdf); [examples](https://github.com/fchollet/deep-learning-with-python-notebooks) at GitHub 
 
-## 6. Course topics
-
+## 6. Course topics  
+1. Introduction to Python and Numpy
+1. Introduction to deep learning (Sections 1.1, 1.2, 1.3, and 4.1)
+1. Data representations & tensor operations (Sections 2.2, 2.3, and 2.4) 
+1. Introduction to Keras (Sections 3.2 and 3.3) 
+1. Preparing images for deep learning (Sections 3.6.2, 5.2.4, and 5.2.5)
+1. The convolution operation (Section 5.1.1) 
+1. Activations & loss functions (Sections 4.5.5, and Table 4.1) 
+1. Model evaluation, overfitting, underfitting, & regularization (Sections 4.2, 4.4, and 4.5) 
+1. Classic CNN architectures (Sections 5.1.1, 5.1.2, and 7.1) 
+1. Deep learning practices (Sections 4.3, 5.3, 5.4, and 7.1) 
+1. Limitations of deep learning (Section 9.2)
 
 ## 7. Course materials  
 * All course materials are inside the relevant folders in Github
