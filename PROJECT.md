@@ -1,9 +1,9 @@
 # Semester-long course project
 
-The [lectures](../LECTURES.md) that we will cover, will help you learn all the background to complete this semester-long course project.
+The [lectures](../LECTURES.md) that we will cover will help you learn all the background to complete this semester-long course project.
 
 ## A. Objectives
-The overall goal of working on this semester long project is to learn the foundations of using Tensorflow/Keras to build, train, and evaluate convolutional neural networks on an image dataset that can be framed as a classification or a regression problem. If you are learning machine learning for the first time, a multi-class classification problem will probably be easier (not a regression problem). A problem is 'multi-class classification' if your output column has multiple options (cat, dog, horse, or a house). The main objective of the project is to design, implement, debug, evaluate, and benchmark deep convolutional neural network (CNN) architectures (and its variants). Your will create and curate your own dataset with at least a 1000 images. You may NOT use any pre-cleaned datasets, but you can collect images from the internet. (Professor Andrew Ng talks about the value of working on your own datadet in [this](https://youtu.be/1k37OcjH7BM) podcast.) You will also play with various CNN architectures and compare their accuracy and speed. Finally, you will study how data augmentation, regularization, and transfer learning can be used to improve the accuracy.
+The overall goal of working on this semester long project is to learn the foundations of using Tensorflow/Keras to build, train, and evaluate convolutional neural networks on an image dataset. If you are learning machine learning for the first time, a multi-class classification problem will probably be easier (not a regression problem). A problem is 'multi-class classification' if your output column has multiple options (cat, dog, horse, or a house). The main objective of the project is to design, implement, debug, evaluate, and benchmark deep convolutional neural network (CNN) architectures. You will create and curate your own dataset with at least a 1000 images. You may NOT use any pre-cleaned datasets, but you can collect images from the internet. (Professor Andrew Ng talks about the value of working on your own datadet in [this](https://youtu.be/1k37OcjH7BM) podcast.) You will also compare the accuracy and speed of various CNN architectures. Finally, you will study how data augmentation, regularization, and transfer learning can be used to improve the accuracy.
 
 ## B. Expectations
 1. You will work on your projects individually (i.e. group submissions are not allowed).
@@ -23,8 +23,8 @@ Below is the list of all phases and the outline of what you will be working on i
 
 ### Phase I. Data preparation
 1. Watch the lectures in [Module 5](https://github.com/badriadhikari/Deep-Learning/blob/main/LECTURES.md#5-preparing-images-for-deep-learning-sections-362-524-and-525).
-1. Decide dataset and take pictures (or collect images). In this phase the first task is to decide a dataset for your project. If you don't have any other project in mind, please do the "mood classification" project. For the mood classification project, you will need to decide a few moods you want to detect (smiling, laughing, crying, neutral, etc.) and take a few hundred pictures for each mood. For example, you will need to take around 200 pictures of you smiling in various lighting conditions, various clothings, and in various places. It may run into your mind to create a video instead and extract frames as images but previous students have achived almost 100% accuracy with such approach so I don't encourage that.
-1. Organize the dataset and visualize. A clean way to organize the images is to put them in folders by their categories. For example, put all 'smiling' pictures in one folder. The next step is to visualize sample images (a few images from your ~1000 images) in a Jupyter Notebook.
+1. In this phase the first task is to decide a dataset for your project. If you don't have any other project in mind, please choose to work on a "mood classification" project. For the mood classification project, you will need to decide a few moods you want to detect (smiling, laughing, crying, neutral, etc.) and take a few hundred pictures for each mood. For example, you will need to take around 200 pictures of you smiling in various lighting conditions, various clothings, and in various places. It may run into your mind to create a video instead and extract frames as images but previous students have achived almost 100% accuracy with such approach so I don't encourage that.
+1. The next step is to organize the dataset and visualize the images. A clean way to organize the images is to put them in folders by their categories. For example, put all 'smiling' pictures in one folder. The next step is to visualize sample images (a few images from your ~1000 images) in a Jupyter Notebook.
 1. In your report you should discuss distribution of output labels, i.e., a bar diagram (or a table) showing how many images belong to which categories.
 1. In your report you should also discuss how you plan to normalize your input images.
 
@@ -42,7 +42,7 @@ Below is the list of all phases and the outline of what you will be working on i
    model.add( Dense( 10, activation = 'relu' ) )
    model.add( Dense( 10, activation = 'softmax' ) )
    ```
-1. In your report you should discuss how the performance (accuracy, precision, recall, etc.) change when the number of filters and layers are increased/decreased?
+1. In your report you should discuss how the performance (accuracy, precision, recall, etc.) changes when the number of filters and layers are increased/decreased?
 1. Plot your learning curves and include them in your report
 1. [ONLY FOR GRADUATE STUDENTS] If you provide the output as the input (as an additional channel) what is the smallest architecture (minimum number of layers and filters) you need to overfit the data?
    ```python
