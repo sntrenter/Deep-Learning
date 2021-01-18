@@ -12,5 +12,6 @@
 The homework here is to make a concept map for each chapter after watching the [lectures](./LECTURES.md). Whenever possible, your concept map should be divided into the [topics of the chapter](./LECTURES.md). In order to receive full points, each concept map should contain all of the key concepts/ideas discussed in the lectures.
 
 ## Example concept maps
-1. [Philosophical foundations](https://github.com/badriadhikari/AI-2020fall/blob/master/supporting_files/concept_map_philosophical_foundations_by_miguel_corona.pdf)  by Miguel Corona (former student)
-1. [P vs NP vs NPC](https://github.com/badriadhikari/AI-2020fall/blob/master/supporting_files/p_vs_np_vs_npc_concept_map_jacob.pdf) by Jacob Barger (former student)
+1. [Philosophical foundations](https://github.com/badriadhikari/Deep-Learning/blob/master/syllabus/concept_map_philosophical_foundations_by_miguel_corona.pdf)  by Miguel Corona (former student)
+1. [Fair AI](https://github.com/badriadhikari/Deep-Learning/blob/master/syllabus/concept_map_fair_ai_fiyanshu_arora.jpeg) by Fiyanshu Arora (former student)
+1. [P vs NP vs NPC](https://github.com/badriadhikari/Deep-Learning/blob/master/syllabus/p_vs_np_vs_npc_concept_map_jacob.pdf) by Jacob Barger (former student)
