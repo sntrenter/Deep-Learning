@@ -141,6 +141,11 @@ The goal in this project is to develop a convolutional neural network model that
 1. Apply data augmentation techniques and regularization techniques to improve performance.
 1. Build and test newer architectures such as ResNets and pre-trained models such as VGG-16.
 
-Also, [here](https://github.com/jnkx9c/DL_Project) is an actual project by Jeff Killgore, a student who took this course in Spring 2019.
-
 <img src="syllabus/mood-classification-project.png" align="middle" width="800"/>
+
+
+## Previous semester student projects
+* [Mood Detection](https://github.com/jnkx9c/DL_Project) - by Jeff Killgore
+* [Categorizing Equus Members with Deep Learning](https://github.com/mykon23/DL-2020Project/blob/master/Categorizing_Equus_Members_with_Deep_Learning.pdf) - by Miguel Corona
+* [Finger Digit Classification](https://github.com/kvong/DeepLearning-FingerDigitClassification) - by Khanh Vong
+
