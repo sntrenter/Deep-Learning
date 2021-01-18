@@ -1,31 +1,35 @@
-# Project objectives
-1. Design, implement, debug, evaluate, and benchmark deep convolutional neural network architectures (and its variants) for a dataset created and curated by yourself with at least a 1000 images (NO pre-cleaned datasets, but you can collect images from the internet).  
-    Professor Andrew Ng talks about the value of working on your own datadet in [this](https://youtu.be/1k37OcjH7BM) podcast.
-1. Compare performance with a basic fully convolutional neural network model with a few filters and one or two layers.
-1. Study the effect of data augmentation, regularization, and transfer learning.
+# Semester-long course project
 
-# Project expectations
+The [lectures](../LECTURES.md) that we will cover, will help you learn all the background to complete this semester-long course project.
+
+## A. Objectives
+The overall goal of working on this semester long project is to learn the foundations of using Tensorflow/Keras to build, train, and evaluate convolutional neural networks on an image dataset that can be framed as a classification or a regression problem. If you are learning machine learning for the first time, a multi-class classification problem will probably be easier (not a regression problem). A problem is 'multi-class classification' if your output column has multiple options (cat, dog, horse, or a house). The main objective of the project is to design, implement, debug, evaluate, and benchmark deep convolutional neural network (CNN) architectures (and its variants). Your will create and curate your own dataset with at least a 1000 images. You may NOT use any pre-cleaned datasets, but you can collect images from the internet. (Professor Andrew Ng talks about the value of working on your own datadet in [this](https://youtu.be/1k37OcjH7BM) podcast.) You will also play with various CNN architectures and compare their accuracy and speed. Finally, you will study how data augmentation, regularization, and transfer learning can be used to improve the accuracy.
+
+## B. Expectations
 1. You will work on your projects individually (i.e. group submissions are not allowed).
-1. All reports including the final report must be prepared using <a href="https://www.overleaf.com/">Overleaf</a>.
-1. Each of you will review at least two reports of the peers in your group.
+1. Reports for all phases (including the final report) must be prepared using <a href="https://www.overleaf.com/">Overleaf</a>. Non-overleaf submissions will receive a 0 (zero). You are free to use any templates you want. [Here](https://www.overleaf.com/read/vgckqpfdyrwp) is an example. You can learn more about Overleaf [here](https://www.overleaf.com/learn/latex/LaTeX_video_tutorial_for_beginners_(video_1)). If you have accessibility needs please email me and I will waive this requirement.
 
-# Tip for preparing notebooks
+## C. Phases
+**In each phase you are exepected to submit:**  
+1. An HTML version of the notebook
+   - If you are using Google Colab, please convert the notebook to `.html` files and submit the `.html` files, for example using [htmltopdf](https://htmtopdf.herokuapp.com/ipynbviewer/).
+1. A PDF report describing your findings (downloaded from your Overleaf project). The reports for the first three phases can be as long as you make them but the final report has limit on the number of pages. 
+1. A link to view your Overleaf project.
+
+## Tip for preparing notebooks
 1. Read the [Ten Simple Rules for Reproducible Research in Jupyter Notebooks](https://arxiv.org/pdf/1810.08055.pdf)
 
-# Project phases
+Below is the list of all phases and the outline of what you will be working on in each phase. 
 
-## 1. Data preparation
-1. Collect the images or take pictures  
-   ~~If you are extracting images from a video make sure that the images are not too easy to predict~~
-1. Crop/resize them all to same dimensions (height = width)
-1. Visualize sample images and discuss the distribution of output labels
-1. Discuss data normalization
+### Phase I. Data preparation
+1. Watch the lectures in [Module 5](https://github.com/badriadhikari/Deep-Learning/blob/main/LECTURES.md#5-preparing-images-for-deep-learning-sections-362-524-and-525).
+1. Decide dataset and take pictures (or collect images). In this phase the first task is to decide a dataset for your project. If you don't have any other project in mind, please do the "mood classification" project. For the mood classification project, you will need to decide a few moods you want to detect (smiling, laughing, crying, neutral, etc.) and take a few hundred pictures for each mood. For example, you will need to take around 200 pictures of you smiling in various lighting conditions, various clothings, and in various places. It may run into your mind to create a video instead and extract frames as images but previous students have achived almost 100% accuracy with such approach so I don't encourage that.
+1. Organize the dataset and visualize. A clean way to organize the images is to put them in folders by their categories. For example, put all 'smiling' pictures in one folder. The next step is to visualize sample images (a few images from your ~1000 images) in a Jupyter Notebook.
+1. In your report you should discuss distribution of output labels, i.e., a bar diagram (or a table) showing how many images belong to which categories.
+1. In your report you should also discuss how you plan to normalize your input images.
 
-**What to submit?**  
-a) A link to your Colab notebook (make sure that anyone with the link can view)  
-b) A PDF report describing your findings  
-
-## 2. Build an overfitting model
+## Phase II. Build an overfitting model
+1. Watch the lectures in [Module 6](https://github.com/badriadhikari/Deep-Learning/blob/main/LECTURES.md#6-the-convolution-operation-section-511) (the last lecture, in particular).
 1. Using all the data (i.e. without splitting) obtain close to 100% accuracy. Build as large model as you need (with many filters and many layers). Here is an example:
    ```python
    model = Sequential()
@@ -38,8 +42,9 @@ b) A PDF report describing your findings
    model.add( Dense( 10, activation = 'relu' ) )
    model.add( Dense( 10, activation = 'softmax' ) )
    ```
-1. How does the performance (accuracy, precision, recall, etc.) change when the number of filters and layers are increased/decreased?
-1. If you provide the output as the input (as an additional channel) what is the smallest architecture (minimum number of layers and filters) you need to overfit the data?
+1. In your report you should discuss how the performance (accuracy, precision, recall, etc.) change when the number of filters and layers are increased/decreased?
+1. Plot your learning curves and include them in your report
+1. [OPTIONAL] If you provide the output as the input (as an additional channel) what is the smallest architecture (minimum number of layers and filters) you need to overfit the data?
    ```python
    # Example of how to use output labels as additional input channel
    import numpy as np
@@ -65,71 +70,37 @@ b) A PDF report describing your findings
       mydatax[i] = x
       mydatay[i] = y
    ```
-1. Plot your learning curves and include them in your report
 
-**What to submit?**  
-a) A link to your Colab notebook (make sure that anyone with the link can view)  
-b) A PDF report describing your findings  
-
-## 3. Split and evaluate on test set
+## Phase III. Split and evaluate on test set
+1. Watch the lecture in [Module 4](https://github.com/badriadhikari/Deep-Learning/blob/main/LECTURES.md#4-introduction-to-keras-sections-32-and-33).
 1. Split your data into training, development, and test set
 1. Train your model using the training set, 'Earlystop' using the validation set, and evaluate on the test set
 1. Study the performance when the number of filters and layers are increased/changed
 1. Plot your learning curves and include them in your report
 
-**What to submit?**  
-a) A link to your Colab notebook (make sure that anyone with the link can view)  
-b) A PDF report describing your findings  
-
-## 4. Effects of augmentation
+## Phase IV. Effects of augmentation
+1. Watch the lectures in [Module 5](https://github.com/badriadhikari/Deep-Learning/blob/main/LECTURES.md#5-preparing-images-for-deep-learning-sections-362-524-and-525).
 1. With the best model obtained from the previous step, apply various techniques of data augmentation (Image generators) and study the improvement in accuracy
 1. Plot your learning curves and include them in your report
 
-**What to submit?**  
-a) A link to your Colab notebook (make sure that anyone with the link can view)  
-b) A PDF report describing your findings  
-
-## 5. Effects of regularization
+## Phase V. Effects of regularization
+1. Watch the lectures in [Module 8](https://github.com/badriadhikari/Deep-Learning/blob/main/LECTURES.md#8-model-evaluation-overfitting-underfitting--regularization-sections-42-44-and-45).
 1. With the best model obtained from the previous step, apply various techniques of regularization (Batchnormalization, Dropout, L2 regularization, etc.) and study the improvement in accuracy
 1. Plot your learning curves and include them in your report
 
-**What to submit?**  
-a) A link to your Colab notebook (make sure that anyone with the link can view)  
-b) A PDF report describing your findings  
-
-## 6. Use pretrained models and recent architectures 
+## Phase VI. Use pretrained models and recent architectures 
+1. Watch the lecture in [Module 9](https://github.com/badriadhikari/Deep-Learning/blob/main/LECTURES.md#9-classic-cnn-architectures-sections-511-512-and-71).
 1. Use pretrained models such as VGG16 or ResNet50 and retrain using your dataset.
 1. Use recent architectures such as ResNet, DenseNet, or NASNet to train a model and study the improvement in accuracy
 1. Plot your learning curves and include them in your report
 
-**What to submit?**  
-a) A link to your Colab notebook (make sure that anyone with the link can view)  
-b) A PDF report describing your findings  
-
-## 7. Report
-**What to submit?**   
-1. A copy of your final report    
-    * Your report must not be very long; 10/12 pages at most.
-    * All tables and figures must be numbered and captioned/labelled.
-    * Don't fill an entire page with a picture or have pictures hanging outside of the page borders.
-    * It is encouraged but not required to you host your project (and report) at Github.   
-1. A link to your final Notebook
-
-## ~~8. Poster presentation (final exam)~~
-* Prepare a poster highlighting the problem, diagrams, your results, plots, etc.
-* Poster and final report will be evaluated based on all the criteria above.
-* Report and poster presentation grades will be average of (a) grades by the course instructor (b) peer grades, and (c) grades by external visitor/s from industry
-* See sample-reports folder and sample-posters folder for samples
-
-**What to submit?**  
-a) A copy of your final report  
-b) A link to your final Notebook
-
-**What to bring?**
-a) A printed copy of your final report  
-b) A link to your final Notebook
-c) Your poster  
-d) A laptop for demonstration (if needed)  
+## Phase VII. Final report
+* Your report must not be very long; 10/12 pages at most.
+* All tables and figures must be numbered and captioned/labelled.
+* Don't fill an entire page with a picture or have pictures hanging outside of the page borders.
+* It is encouraged but not required to you host your project (and report) at Github.  
+* Turn off the dark mode in Notebook before you copy images/plots (the lables and ticks are hard to see in dark mode).
+* Your report should include an abstract and a conclusion (each 250 words minimum).
 
 # Example Project
 The goal in this project is to develop a convolutional neural network model that can identify my mood looking at a picture of my face. Here are the steps involved:
@@ -142,7 +113,6 @@ The goal in this project is to develop a convolutional neural network model that
 1. Build and test newer architectures such as ResNets and pre-trained models such as VGG-16.
 
 <img src="syllabus/mood-classification-project.png" align="middle" width="800"/>
-
 
 ## Previous semester student projects
 * [Mood Detection](https://github.com/jnkx9c/DL_Project) - by Jeff Killgore
