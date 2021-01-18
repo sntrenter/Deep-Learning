@@ -92,7 +92,7 @@ Python3 is language for the course; you are expected to use Python3 for all of y
 * See [here](PROJECT.md).
 
 ## 13. Homeworks
-There will be two types of homeworks: [project homeworks](./PROJECT.md), and [drawing concept maps](./CONCEPT-MAPS.md) as chapter summaries.
+There will be two types of homeworks: [project homeworks](./PROJECT.md), and [drawing concept maps](./CONCEPT-MAPS.md) as chapter summaries. Homeworks must be submitted via Canvas.
 
 ## 14. Grade composition  
 
