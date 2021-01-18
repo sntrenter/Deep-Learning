@@ -20,9 +20,9 @@ This course reviews a typical machine learning recipe, mathematical foundations 
 **Upon completing the course students will be able to:**
 * Write Numpy and Tensorflow programs for building deep learning applications
 * Learn computational foundations of machine learning and deep learning
-* Learn the major technology trends in deep learning such as convolutional neural networks, residual neural networks, and capsule networks
+* Learn the major technology trends in deep learning such as convolutional neural networks and residual neural networks
 * Understand what makes deep learning different and powerful compared to traditional machine learning practices
-* Understand the parameters and hyper-parameters in a deep neural network
+* Understand the main parameters and hyper-parameters in a deep neural network
 * Design, develop, train, debug, and evaluate deep neural networks
 * Learn how to transfer the knowledge in pre-trained deep learning models to build models for new datasets
 
@@ -34,7 +34,6 @@ This course reviews a typical machine learning recipe, mathematical foundations 
 
 ## Textbook  
 * Primary textbook: "Deep Learning with Python" by François Chollet by [Manning](https://www.manning.com/books/deep-learning-with-python); [pdf](http://faculty.neu.edu.cn/yury/AAI/Textbook/Deep%20Learning%20with%20Python.pdf); [examples](https://github.com/fchollet/deep-learning-with-python-notebooks) at GitHub 
-* Reference textbooks: "[Machine Learning Yearning](https://www.deeplearning.ai/content/uploads/2018/09/Ng-MLY01-12.pdf)" by Andrew Ng and "Deep Learning" by Ian Goodfellow, Yoshua Bengio, and Aaron Courville
 
 ## Course topics
 * See [here](LECTURES.md).
