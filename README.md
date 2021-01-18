@@ -53,10 +53,12 @@ CMPSCI 3130 (Design and Analysis of Algorithms) or Graduate Standing in CS
  
 ## 8. Week-by-week course schedule (tentative)
 
-1. **08/27**
-   - Summary homework due next week: Chapter 18 
-   - Activity due next week: Activity 01
-   - Meeting discussion topics: Syllabus + Colab + Activity 01
+1. **01/21**
+   - Meeting discussion topics: Syllabus + Start from Google Colab
+   - Due next week:
+      - Concept map homework: None
+      - Quiz: None
+      - Project: None
 
 1. **09/03**
    - Summary homework due next week: Chapter 01 
