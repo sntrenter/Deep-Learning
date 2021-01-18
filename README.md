@@ -89,7 +89,7 @@ There will be two types of homeworks: [project homeworks](./PROJECT.md), and [dr
 | Submission | Total Points |
 | :--- | ---: |
 | Chapter concept maps | 30 |
-| Chapter Quizes | 30 |
+| Chapter quizes | 30 |
 | Project | 40 |
 
 Note: One (1) bonus point will be assigned to everyone who completes the course evaluation survey. Please email me once you submit the survey.
