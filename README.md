@@ -54,26 +54,46 @@ CMPSCI 3130 (Design and Analysis of Algorithms) or Graduate Standing in CS
 ## 8. Week-by-week course schedule (tentative)
 
 1. **01/21**
-   - Meeting discussion topics: Syllabus + Start from Google Colab
+   - Meeting topics: Syllabus + Start from Google Colab
    - Due next week:
       - Concept map homework: None
       - Quiz: None
       - Project: None
 
-1. **09/03**
-   - Summary homework due next week: Chapter 01 
-   - Activity due next week: Activity 02 & 03
-   - Meeting discussion topics: QnA
+1. **01/28**
+   - Meeting topics: QnA + Project ideas
+   - Due next week:
+      - Concept map homework: Module 2 (Introduction to DL)
+      - Quiz: Module 2
+      - Project: None
 
-1. **Thanksgiving break**
+1. **02/04**
+   - Meeting topics: QnA
+   - Due next week:
+      - Concept map homework: Module 3 (Data representations)
+      - Quiz: Module 3
+      - Project: None
 
-1. **12/10**
-   - Summary homework due next week: N/A
-   - Activity due next week: N/A
-   - Meeting discussion topics: QnA + Final report
+1. **02/11**
+   - Meeting topics: QnA
+   - Due next week:
+      - Concept map homework: Module 4 (Introduction to Keras)
+      - Quiz: Module 4
+      - Project: None
 
-1. **Finals week**
-   - Project final report
+1. **02/18**
+   - Meeting topics: QnA
+   - Due next week:
+      - Concept map homework: Module 5 (Preparing Images)
+      - Quiz: Module 5
+      - Project: None
+
+1. **02/25**
+   - Meeting topics: QnA
+   - Due next week:
+      - Concept map homework: Module 6 (The Convolution Operation)
+      - Quiz: Module 6
+      - Project: Phase I Report
 
 ## 9. Academic dishonesty
 Any form of academic dishonesty in this class will result in an F for the semester and the case will be referred to the provost's office for possible further disciplinary action, regardless of how trivial it is. Please don't use another student's assignment (or a solution in the internet) to complete your own assignment. Discussing the material is 'OK', but please do your work on your own. You should complete the homework alone, not together, and not in a group. If you have any questions about any of the lessons or the assignments, please contact me, and I will point you in the right direction. Please read [UMSL's policy](https://www.umsl.edu/services/academic/policy/academic-dishonesty.html) and keep yourself out of plagiarism. Also, please remember that our `turnitin` tool also automatically checks for plagiarism.
