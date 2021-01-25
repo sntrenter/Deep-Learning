@@ -116,6 +116,9 @@ Python3 is language for the course; you are expected to use Python3 for all of y
 ## 13. Homeworks
 There will be two types of homeworks: [project homeworks](./PROJECT.md), and [drawing concept maps](./CONCEPT-MAP.md) as chapter summaries. Homeworks should be submitted via Canvas. Concept maps should be submitted to the respective discussion boards so they are visible to other students in the class. You can view the concept maps uploaded by other students in the class only after you have submitted yours.
 
+## 14. Quizes
+There will be no comprehensive tests in this course. Along with concept map homeworks, after watching the module lectures, you will need to take a five minute quiz. The questions on the quiz will be be multiple-choice or true/false type. Please take this quiz right after watching the module lectures. Also, before taking the quiz, please refer to the [Proctorio instructions](https://github.com/badriadhikari/Artificial-Intelligence/blob/master/Proctorio_instructions.md).
+
 ## 14. Grade composition  
 
 | Submission | Total Points |
